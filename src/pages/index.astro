@@ -5,69 +5,93 @@ import { notices, statusSummary } from '../lib/data';
 const items = notices();
 const s = statusSummary();
 const base = import.meta.env.BASE_URL;
+const today = new Intl.DateTimeFormat('ko-KR', { dateStyle: 'full', timeZone: 'Asia/Seoul' }).format(new Date('2026-07-29T05:30:00+09:00'));
 ---
 <BaseLayout title="Biz Policy Radar | 사업자 정책 레이더">
   <section class="hero">
-    <div class="hero-inner">
-      <div class="eyebrow">공식 출처 기반 · 매일 검증 · Draft-first 운영</div>
-      <h1>사업자 정책을<br />놓치지 않게.</h1>
-      <p>스타트업, 1인 사업자, 소상공인이 오늘 확인해야 할 지원 공고·세무·노무 일정을 공식 원문으로 검증해 정리합니다.</p>
-      <div class="hero-actions">
-        <a class="pill" href={`${base}deadline/`}>마감임박 보기</a>
-        <a class="pill secondary" href={`${base}methodology/`}>검증 원칙</a>
+    <div class="wrap hero-grid">
+      <div>
+        <div class="eyebrow">Apple Newsroom × Policy Intelligence Dashboard</div>
+        <h1>사업자 정책을<br />놓치지 않게.</h1>
+        <p>스타트업, 1인 사업자, 소상공인이 오늘 확인해야 할 지원 공고·세무·노무 일정을 공식 원문으로 검증해 읽기 좋게 정리합니다.</p>
+        <div class="hero-actions">
+          <a class="pill gold" href={`${base}deadline/`}>오늘의 마감임박</a>
+          <a class="pill secondary" href={`${base}methodology/`}>검증 원칙 보기</a>
+        </div>
+      </div>
+      <aside class="daily-brief" aria-label="오늘의 운영 브리핑">
+        <div class="brief-top"><div><div class="brief-title">Daily Operator Brief</div><div class="brief-date">{today}</div></div><span class="live-dot"></span></div>
+        <div class="brief-big">{s.pass ?? 0} PASS</div>
+        <p class="brief-caption">공식 출처 게이트를 통과한 항목만 공개 후보가 됩니다. 불확실한 항목은 수동 검토 큐로 이동합니다.</p>
+        <div class="brief-rows">
+          <div class="brief-row"><span>Manual Review</span><b>{s.manual_review ?? 0}</b></div>
+          <div class="brief-row"><span>Blocked</span><b>{s.blocked ?? 0}</b></div>
+          <div class="brief-row"><span>Candidates</span><b>{s.candidates ?? 0}</b></div>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section wrap reveal">
+    <div class="section-head">
+      <div><div class="section-kicker">Newsroom</div><h2>오늘의 마감임박</h2></div>
+      <p class="section-lead">신청 전 마지막으로 확인해야 할 일정, 대상 조건, 제출 준비를 뉴스룸처럼 선별해 보여줍니다.</p>
+    </div>
+    <div class="newsroom">
+      <a class="lead-story" href={`${base}deadline/`}>
+        <div><span class="tag">Deadline Soon</span><h3>마감 7일 이내 정책을 가장 먼저.</h3><p class="story-copy">D-day가 가까운 공고는 삭제하지 않고 상태를 갱신하며, 연장·변경 가능성이 있으면 자동 확정하지 않습니다.</p></div>
+        <div class="meta">공식 원문 · 검증 시각 · 일반 정보 고지</div>
+      </a>
+      <div class="side-stack">
+        <a class="side-story" href={`${base}themes/세무/`}><div class="meta">Tax & Labor</div><h3>세무·노무 일정</h3><p class="story-copy">신고·납부·고용 관련 일정은 일반 정보로 제공하고 공식기관 확인을 안내합니다.</p></a>
+        <a class="side-story" href={`${base}themes/금융/`}><div class="meta">Funding</div><h3>자금·보증·금융</h3><p class="story-copy">지원 한도와 선정 규모는 원문 확인값만 표시합니다.</p></a>
+        <a class="side-story" href={`${base}corrections/`}><div class="meta">Corrections</div><h3>정정·업데이트 이력</h3><p class="story-copy">마감, 대상, 지원 내용 변경은 기록으로 남깁니다.</p></a>
       </div>
     </div>
   </section>
 
   <section class="section wrap reveal">
-    <div class="section-kicker">Policy Intelligence</div>
-    <h2>공고 제목 너머의<br />실무 조건까지.</h2>
-    <p class="section-lead">단순 복제가 아니라 “누가, 어떤 조건에서, 언제까지, 무엇을 준비해야 하는가”를 분리해 보여주는 정보성 정책 레이더입니다.</p>
-    <div class="policy-stage">
-      <div class="glass-panel radar-card">
-        <h3>Today’s Radar</h3>
-        <div class="radar-lines">
-          <div class="radar-line"><b>API</b><span>공식 API 우선</span></div>
-          <div class="radar-line"><b>RSS</b><span>공식 피드로 신규 발견</span></div>
-          <div class="radar-line"><b>WEB</b><span>허용형 웹만 최소 수집</span></div>
-          <div class="radar-line"><b>REVIEW</b><span>불확실하면 수동 검토</span></div>
+    <div class="section-kicker">Intelligence Board</div>
+    <h2>수집보다 중요한 건<br />통과 기준입니다.</h2>
+    <p class="section-lead">Impeccable의 원칙처럼, 표면 장식보다 명확한 모드와 결정적 게이트를 먼저 세웁니다. 이 사이트의 모드는 Persuade가 아니라 Read + Monitor입니다.</p>
+    <div class="dashboard">
+      <div class="intel-panel dark">
+        <h3>Gate Sequence</h3>
+        <p class="story-copy">API가 없으면 RSS, 그다음 허용형 웹. 단, 재이용권이 불명확하면 자동 발행하지 않습니다.</p>
+        <div class="signal-list">
+          <div class="signal"><i></i><b>API</b><span>공식 OpenAPI</span></div>
+          <div class="signal"><i></i><b>RSS</b><span>공식 피드 발견</span></div>
+          <div class="signal"><i></i><b>WEB</b><span>허용 경로 최소 수집</span></div>
+          <div class="signal"><i></i><b>REVIEW</b><span>불확실성 격리</span></div>
         </div>
       </div>
-      <div class="story-stack">
-        <div class="story"><h3>사실과 판단 분리</h3><p>원문 사실은 공식 출처로, 편집 판단은 별도 메모로 분리합니다.</p></div>
-        <div class="story"><h3>자동 발행의 안전선</h3><p>robots·약관·재이용권이 불확실하면 자동 발행하지 않습니다.</p></div>
-        <div class="story"><h3>매일 운영</h3><p>위키가 매일 후보를 점검하고, QA PASS 콘텐츠만 공개 경로에 올립니다.</p></div>
+      <div class="intel-panel">
+        <h3>운영 상태</h3>
+        <div class="metric-board">
+          <div class="metric"><strong>{s.pass ?? 0}</strong><span>PASS</span></div>
+          <div class="metric"><strong>{s.manual_review ?? 0}</strong><span>MANUAL REVIEW</span></div>
+          <div class="metric"><strong>{s.blocked ?? 0}</strong><span>BLOCK</span></div>
+          <div class="metric"><strong>{s.candidates ?? 0}</strong><span>CANDIDATES</span></div>
+        </div>
       </div>
+    </div>
+  </section>
+
+  <section class="section wrap reveal">
+    <div class="section-head"><div><div class="section-kicker">Segments</div><h2>사업 형태별로<br />다르게 읽습니다.</h2></div><p class="section-lead">같은 공고라도 스타트업, 1인 사업자, 소상공인에게 필요한 판단 기준은 다릅니다.</p></div>
+    <div class="segment-grid">
+      <a class="segment-panel startup" href={`${base}segments/startup/`}><div><span class="tag">Startup</span><h3>스타트업</h3><p class="story-copy">창업지원, R&D, 사업화, 투자 연계 정보를 성장 단계 기준으로 정리합니다.</p></div><ul><li>사업화·R&D</li><li>창업패키지</li><li>기술·시장 실증</li></ul></a>
+      <a class="segment-panel solo" href={`${base}segments/solo-business/`}><div><span class="tag">Solo Business</span><h3>1인 사업자</h3><p class="story-copy">혼자 운영하는 사업자가 바로 확인할 수 있게 세무, 디지털전환, 소규모 지원을 분리합니다.</p></div><ul><li>세무·노무 일정</li><li>디지털 전환</li><li>간편 신청성</li></ul></a>
+      <a class="segment-panel small" href={`${base}segments/small-business/`}><div><span class="tag">Small Business</span><h3>소상공인</h3><p class="story-copy">자금, 판로, 고용, 지역 지원을 마감과 제출 준비 중심으로 정리합니다.</p></div><ul><li>자금·보증</li><li>판로·지역</li><li>고용 지원</li></ul></a>
     </div>
   </section>
 
   <section class="section wrap reveal">
     <div class="section-kicker">Briefing</div>
-    <h2>오늘의 정책 브리핑</h2>
+    <h2>오늘의 정책 카드</h2>
     <p class="section-lead">현재 화면은 SAMPLE fixture 기반 MVP 검증용입니다. 실제 운영에서는 공식 출처 검증을 통과한 콘텐츠만 표시됩니다.</p>
     <div class="notice-list">
       {items.map((notice) => <NoticeCard notice={notice} />)}
-    </div>
-  </section>
-
-  <section class="section wrap reveal">
-    <div class="section-kicker">Segments</div>
-    <h2>내 사업 형태에 맞게.</h2>
-    <div class="notice-list">
-      <a class="card" href={`${base}segments/startup/`}><span class="badge">Startup</span><h2>스타트업</h2><p>창업지원, R&D, 사업화, 투자 연계 공고를 우선 정리합니다.</p></a>
-      <a class="card" href={`${base}segments/solo-business/`}><span class="badge">Solo</span><h2>1인 사업자</h2><p>세무·노무·디지털 전환·소규모 지원사업을 놓치지 않게 봅니다.</p></a>
-      <a class="card" href={`${base}segments/small-business/`}><span class="badge">Small Biz</span><h2>소상공인</h2><p>자금, 판로, 고용, 지역 지원 정보를 실무 관점으로 정리합니다.</p></a>
-    </div>
-  </section>
-
-  <section class="section wrap reveal">
-    <div class="section-kicker">Operations</div>
-    <h2>운영 상태를 투명하게.</h2>
-    <div class="status-grid">
-      <div class="metric"><strong>{s.pass ?? 0}</strong><span>PASS</span></div>
-      <div class="metric"><strong>{s.manual_review ?? 0}</strong><span>MANUAL REVIEW</span></div>
-      <div class="metric"><strong>{s.blocked ?? 0}</strong><span>BLOCK</span></div>
-      <div class="metric"><strong>{s.candidates ?? 0}</strong><span>CANDIDATES</span></div>
     </div>
   </section>
 </BaseLayout>
