@@ -13,7 +13,7 @@ const base = import.meta.env.BASE_URL;
     <meta property="og:type" content="website" />
     <meta property="og:description" content="공식 출처로 검증한 사업자 정책·세무·노무 브리핑" />
     <script type="application/ld+json" set:html={JSON.stringify({ '@context':'https://schema.org', '@type':'WebSite', name:'Biz Policy Radar', url:Astro.site?.toString() ?? 'https://ai4tenlab.github.io/biz-policy-radar/' })} />
-    <style>
+    <style is:global>
       :root{
         --ink:oklch(18% .02 95);--soft-ink:oklch(30% .018 95);--muted:oklch(46% .015 95);--faint:oklch(62% .01 95);--paper:oklch(97% .012 95);--paper-deep:oklch(93.5% .014 95);--surface:oklch(99% .008 95 / .76);--surface-strong:oklch(100% 0 0);--rule:oklch(25% .02 95 / .12);--rule-strong:oklch(25% .02 95 / .22);--lacquer:oklch(9% .006 95);--lacquer-2:oklch(13% .008 95);--gold:oklch(84% .13 82);--gold-deep:oklch(61% .085 78);--patina:oklch(70% .105 190);--blue:oklch(58% .18 252);--radius:28px;--radius-sm:18px;--shadow:0 24px 90px oklch(18% .02 95 / .12);--blur:saturate(180%) blur(22px)
       }
