@@ -1,7 +1,73 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NoticeCard from '../components/NoticeCard.astro';
-import { notices } from '../lib/data';
+import { notices, statusSummary } from '../lib/data';
 const items = notices();
+const s = statusSummary();
+const base = import.meta.env.BASE_URL;
 ---
-<BaseLayout title="오늘의 정책 브리핑 | Biz Policy Radar"><h2>오늘의 정책 브리핑</h2><p>SAMPLE 또는 검증 통과 초안만 표시합니다. 실제 운영 전 공개 발행 금지.</p>{items.map((notice) => <NoticeCard notice={notice} />)}</BaseLayout>
+<BaseLayout title="Biz Policy Radar | 사업자 정책 레이더">
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="eyebrow">공식 출처 기반 · 매일 검증 · Draft-first 운영</div>
+      <h1>사업자 정책을<br />놓치지 않게.</h1>
+      <p>스타트업, 1인 사업자, 소상공인이 오늘 확인해야 할 지원 공고·세무·노무 일정을 공식 원문으로 검증해 정리합니다.</p>
+      <div class="hero-actions">
+        <a class="pill" href={`${base}deadline/`}>마감임박 보기</a>
+        <a class="pill secondary" href={`${base}methodology/`}>검증 원칙</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section wrap reveal">
+    <div class="section-kicker">Policy Intelligence</div>
+    <h2>공고 제목 너머의<br />실무 조건까지.</h2>
+    <p class="section-lead">단순 복제가 아니라 “누가, 어떤 조건에서, 언제까지, 무엇을 준비해야 하는가”를 분리해 보여주는 정보성 정책 레이더입니다.</p>
+    <div class="policy-stage">
+      <div class="glass-panel radar-card">
+        <h3>Today’s Radar</h3>
+        <div class="radar-lines">
+          <div class="radar-line"><b>API</b><span>공식 API 우선</span></div>
+          <div class="radar-line"><b>RSS</b><span>공식 피드로 신규 발견</span></div>
+          <div class="radar-line"><b>WEB</b><span>허용형 웹만 최소 수집</span></div>
+          <div class="radar-line"><b>REVIEW</b><span>불확실하면 수동 검토</span></div>
+        </div>
+      </div>
+      <div class="story-stack">
+        <div class="story"><h3>사실과 판단 분리</h3><p>원문 사실은 공식 출처로, 편집 판단은 별도 메모로 분리합니다.</p></div>
+        <div class="story"><h3>자동 발행의 안전선</h3><p>robots·약관·재이용권이 불확실하면 자동 발행하지 않습니다.</p></div>
+        <div class="story"><h3>매일 운영</h3><p>위키가 매일 후보를 점검하고, QA PASS 콘텐츠만 공개 경로에 올립니다.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section wrap reveal">
+    <div class="section-kicker">Briefing</div>
+    <h2>오늘의 정책 브리핑</h2>
+    <p class="section-lead">현재 화면은 SAMPLE fixture 기반 MVP 검증용입니다. 실제 운영에서는 공식 출처 검증을 통과한 콘텐츠만 표시됩니다.</p>
+    <div class="notice-list">
+      {items.map((notice) => <NoticeCard notice={notice} />)}
+    </div>
+  </section>
+
+  <section class="section wrap reveal">
+    <div class="section-kicker">Segments</div>
+    <h2>내 사업 형태에 맞게.</h2>
+    <div class="notice-list">
+      <a class="card" href={`${base}segments/startup/`}><span class="badge">Startup</span><h2>스타트업</h2><p>창업지원, R&D, 사업화, 투자 연계 공고를 우선 정리합니다.</p></a>
+      <a class="card" href={`${base}segments/solo-business/`}><span class="badge">Solo</span><h2>1인 사업자</h2><p>세무·노무·디지털 전환·소규모 지원사업을 놓치지 않게 봅니다.</p></a>
+      <a class="card" href={`${base}segments/small-business/`}><span class="badge">Small Biz</span><h2>소상공인</h2><p>자금, 판로, 고용, 지역 지원 정보를 실무 관점으로 정리합니다.</p></a>
+    </div>
+  </section>
+
+  <section class="section wrap reveal">
+    <div class="section-kicker">Operations</div>
+    <h2>운영 상태를 투명하게.</h2>
+    <div class="status-grid">
+      <div class="metric"><strong>{s.pass ?? 0}</strong><span>PASS</span></div>
+      <div class="metric"><strong>{s.manual_review ?? 0}</strong><span>MANUAL REVIEW</span></div>
+      <div class="metric"><strong>{s.blocked ?? 0}</strong><span>BLOCK</span></div>
+      <div class="metric"><strong>{s.candidates ?? 0}</strong><span>CANDIDATES</span></div>
+    </div>
+  </section>
+</BaseLayout>
