@@ -1,0 +1,5 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'; import NoticeCard from '../../components/NoticeCard.astro'; import { notices } from '../../lib/data';
+export function getStaticPaths(){ return [{params:{date:'2026-07-29'}}]; } const items = notices();
+---
+<BaseLayout title="일일 브리핑 | Biz Policy Radar"><h2>{Astro.params.date} 브리핑</h2>{items.map(n=><NoticeCard notice={n} />)}</BaseLayout>

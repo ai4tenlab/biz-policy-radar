@@ -1,0 +1,16 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "source_id",
+      "name",
+      "official_domain",
+      "source_grade",
+      "status",
+      "collection_methods",
+      "policy_check_status",
+      "storage_policy"
+    ]
+  }
+}

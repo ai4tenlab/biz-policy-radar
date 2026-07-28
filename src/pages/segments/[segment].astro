@@ -1,0 +1,7 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'; import NoticeCard from '../../components/NoticeCard.astro'; import { notices } from '../../lib/data';
+const segmentLabels: Record<string, string> = { 'startup':'스타트업', 'solo-business':'1인 사업자', 'small-business':'소상공인' };
+export function getStaticPaths(){ return ['startup', 'solo-business', 'small-business'].map(k=>({params:{segment:k}})); }
+const label = segmentLabels[Astro.params.segment as string]; const items = notices().filter(n=>n.segment.includes(label));
+---
+<BaseLayout title={`${label} | Biz Policy Radar`}><h2>{label}</h2>{items.map(n=><NoticeCard notice={n} />)}</BaseLayout>

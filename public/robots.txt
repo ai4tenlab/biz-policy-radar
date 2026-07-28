@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /biz-policy-radar/
+Sitemap: https://ai4tenlab.github.io/biz-policy-radar/sitemap-index.xml

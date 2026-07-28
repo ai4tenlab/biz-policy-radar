@@ -1,0 +1,89 @@
+[
+  {
+    "source_id": "bizinfo",
+    "name": "기업마당",
+    "official_domain": "bizinfo.go.kr",
+    "source_grade": "S",
+    "status": "pending",
+    "collection_priority": 1,
+    "collection_methods": [
+      "api",
+      "manual"
+    ],
+    "api_endpoint": null,
+    "rss_url": null,
+    "list_url": null,
+    "detail_url_pattern": null,
+    "robots_url": "https://www.bizinfo.go.kr/robots.txt",
+    "terms_url": null,
+    "license_url": null,
+    "policy_checked_at": "2026-07-29",
+    "policy_check_status": "unknown",
+    "allowed_paths": [],
+    "disallowed_paths": [],
+    "crawl_interval_minutes": 1440,
+    "max_requests_per_run": 20,
+    "user_agent": "BizPolicyRadarBot/0.1 (+https://example.com/methodology/)",
+    "storage_policy": "metadata_and_link_only",
+    "reuse_policy": "pending_review",
+    "contact_or_notes": "API key not configured; fixture only"
+  },
+  {
+    "source_id": "k-startup",
+    "name": "K-Startup",
+    "official_domain": "k-startup.go.kr",
+    "source_grade": "S",
+    "status": "manual_review",
+    "collection_priority": 2,
+    "collection_methods": [
+      "manual"
+    ],
+    "api_endpoint": null,
+    "rss_url": null,
+    "list_url": null,
+    "detail_url_pattern": null,
+    "robots_url": "https://www.k-startup.go.kr/robots.txt",
+    "terms_url": null,
+    "license_url": null,
+    "policy_checked_at": "2026-07-29",
+    "policy_check_status": "unknown",
+    "allowed_paths": [],
+    "disallowed_paths": [],
+    "crawl_interval_minutes": 1440,
+    "max_requests_per_run": 20,
+    "user_agent": "BizPolicyRadarBot/0.1 (+https://example.com/methodology/)",
+    "storage_policy": "metadata_and_link_only",
+    "reuse_policy": "pending_review",
+    "contact_or_notes": "manual until policy verified"
+  },
+  {
+    "source_id": "sample-official-fixture",
+    "name": "SAMPLE 공식기관",
+    "official_domain": "example.go.kr",
+    "source_grade": "S",
+    "status": "active",
+    "collection_priority": 99,
+    "collection_methods": [
+      "manual"
+    ],
+    "api_endpoint": null,
+    "rss_url": null,
+    "list_url": "https://example.go.kr/notices",
+    "detail_url_pattern": "https://example.go.kr/notices/*",
+    "robots_url": "https://example.go.kr/robots.txt",
+    "terms_url": "https://example.go.kr/terms",
+    "license_url": "https://example.go.kr/license",
+    "policy_checked_at": "2026-07-29",
+    "policy_check_status": "allow",
+    "allowed_paths": [
+      "/notices"
+    ],
+    "disallowed_paths": [],
+    "crawl_interval_minutes": 1440,
+    "max_requests_per_run": 5,
+    "user_agent": "BizPolicyRadarBot/0.1 (+https://example.com/methodology/)",
+    "storage_policy": "metadata_and_link_only",
+    "reuse_policy": "fixture_only",
+    "contact_or_notes": "테스트 전용 fixture. 실제 공고 아님."
+  }
+]

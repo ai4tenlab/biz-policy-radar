@@ -1,0 +1,7 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NoticeCard from '../components/NoticeCard.astro';
+import { notices } from '../lib/data';
+const items = notices();
+---
+<BaseLayout title="오늘의 정책 브리핑 | Biz Policy Radar"><h2>오늘의 정책 브리핑</h2><p>SAMPLE 또는 검증 통과 초안만 표시합니다. 실제 운영 전 공개 발행 금지.</p>{items.map((notice) => <NoticeCard notice={notice} />)}</BaseLayout>

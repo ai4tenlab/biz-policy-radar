@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "required": [
+    "title",
+    "date",
+    "source_published_at",
+    "deadline",
+    "status",
+    "segment",
+    "theme",
+    "region",
+    "issuer",
+    "source_grade",
+    "source_url",
+    "source_id",
+    "collection_method",
+    "verified_at",
+    "content_status",
+    "change_summary",
+    "license_note"
+  ]
+}

@@ -1,0 +1,5 @@
+---
+const { notice } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+<article class="card"><span class="badge">{notice.status}</span><h2><a href={`${base}notices/${notice.slug}/`}>{notice.title}</a></h2><p>{notice.support_summary}</p><p><strong>기관:</strong> {notice.issuer} · <strong>마감:</strong> {notice.deadline}</p><p><strong>대상:</strong> {notice.segment.join(', ')} · <strong>주제:</strong> {notice.theme.join(', ')}</p></article>

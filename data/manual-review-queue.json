@@ -1,0 +1,13 @@
+[
+  {
+    "candidate_id": "fixture-blocked",
+    "source_name": "K-Startup",
+    "source_url": "https://www.k-startup.go.kr/example",
+    "detected_at": "2026-07-29T05:00:00+09:00",
+    "collection_method_attempted": "web",
+    "review_reason_code": "TERMS_UNVERIFIED",
+    "summary": "정책 확인 필요 후보",
+    "next_review_date": "2026-07-30",
+    "status": "pending"
+  }
+]

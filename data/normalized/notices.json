@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "sample-official-fixture",
+    "source_name": "SAMPLE 공식기관",
+    "source_grade": "S",
+    "source_url": "https://example.go.kr/notices/sample-2026-startup",
+    "official_domain": "example.go.kr",
+    "collection_method": "manual",
+    "fetched_at": "2026-07-29T05:00:00+09:00",
+    "source_published_at": "2026-07-29",
+    "source_updated_at": null,
+    "title": "[SAMPLE] 2026 사업자 정책 레이더 데모 공고",
+    "issuer": "SAMPLE 공식기관",
+    "executor": "SAMPLE 수행기관",
+    "application_start_at": "2026-07-29T09:00:00+09:00",
+    "deadline": "2026-08-04 18:00",
+    "support_target": "스타트업, 1인 사업자, 소상공인 대상 데모",
+    "support_summary": "fixture 파이프라인 검증을 위한 샘플 요약입니다. 실제 지원사업이 아닙니다.",
+    "theme": [
+      "사업화"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "스타트업",
+      "1인 사업자",
+      "소상공인"
+    ],
+    "application_method": "공식 원문 확인",
+    "inquiry": "SAMPLE 문의처",
+    "attachment_urls": [],
+    "raw_hash": "fixture-hash-v1",
+    "license_note": "fixture_only",
+    "policy_check_status": "allow",
+    "slug": "sample-2026-사업자-정책-레이더-데모-공고",
+    "status": "deadline_soon",
+    "content_status": "draft",
+    "verified_at": "2026-07-29 05:00 KST",
+    "change_summary": "fixture 기반 신규 후보"
+  }
+]

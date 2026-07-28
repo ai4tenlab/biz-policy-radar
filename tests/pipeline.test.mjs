@@ -1,0 +1,6 @@
+import test from 'node:test'; import assert from 'node:assert/strict'; import { policyCheck, normalize, verify } from '../scripts/lib/pipeline.mjs';
+const registry = [{source_id:'ok', official_domain:'example.go.kr', source_grade:'S', policy_check_status:'allow', collection_methods:['manual']}];
+test('allows registered S-grade official domain', () => { const result = policyCheck({source_id:'ok', source_url:'https://example.go.kr/notices/1', collection_method:'manual'}, registry); assert.equal(result.decision, 'ALLOW'); });
+test('manual review when terms unknown', () => { const result = policyCheck({source_id:'bad', source_url:'https://bad.go.kr/x', collection_method:'web'}, [{source_id:'bad', official_domain:'bad.go.kr', source_grade:'S', policy_check_status:'unknown', collection_methods:['web']}]); assert.equal(result.decision, 'MANUAL_REVIEW'); });
+test('deadline soon status within 7 days', () => { const n = normalize({title:'테스트', deadline:'2026-08-04 18:00'}); assert.equal(n.status, 'deadline_soon'); });
+test('required field missing blocks verification', () => { const v = verify({title:'x', source_grade:'S'}); assert.equal(v.ok, false); assert.equal(v.code, 'REQUIRED_FIELD_MISSING'); });

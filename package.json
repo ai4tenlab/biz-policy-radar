@@ -1,0 +1,23 @@
+{
+  "name": "biz-policy-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "lint": "node scripts/qa/lint.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
+    "pipeline:fixture": "node scripts/run-fixture-pipeline.mjs",
+    "qa": "node scripts/qa/content-qa.mjs",
+    "build": "astro build"
+  },
+  "dependencies": {
+    "@astrojs/check": "latest",
+    "astro": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2"
+  }
+}
