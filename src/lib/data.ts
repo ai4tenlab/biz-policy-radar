@@ -1,4 +1,26 @@
-import fs from 'node:fs'; import path from 'node:path';
-export type Notice = { slug:string; title:string; deadline:string; status:string; segment:string[]; theme:string[]; region:string[]; issuer:string; source_url:string; verified_at:string; support_summary:string; content_status:string; source_grade:string; };
-export function notices(): Notice[] { const p = path.join(process.cwd(), 'data/normalized/notices.json'); return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : []; }
-export function statusSummary() { const p = path.join(process.cwd(), 'data/manifests/latest.json'); return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : {pass:0, manual_review:0, blocked:0}; }
+import fs from 'node:fs';
+import path from 'node:path';
+
+export function notices() {
+  const p = path.join(process.cwd(), 'data/normalized/notices.json');
+  if (!fs.existsSync(p)) return [];
+  const rows = JSON.parse(fs.readFileSync(p, 'utf8'));
+  return rows.filter((notice: any) => {
+    const title = String(notice.title ?? '').toLowerCase();
+    return notice.content_status === 'published' && notice.status === 'PASS' && !title.includes('sample') && !title.includes('fixture');
+  });
+}
+
+export function publicSummary() {
+  const items = notices();
+  return {
+    published: items.length,
+    deadlineSoon: items.filter((n: any) => n.deadline_status === 'soon').length,
+    updatedAt: items[0]?.verified_at ?? null,
+  };
+}
+
+export function statusSummary() {
+  const p = path.join(process.cwd(), 'data/manifests/latest.json');
+  return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')) : { pass: 0, manual_review: 0, blocked: 0 };
+}

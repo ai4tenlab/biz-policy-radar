@@ -9,3 +9,6 @@ logs/**/*.log
 raw/
 .local/
 .DS_Store
+
+# Internal review drafts - keep local only
+docs/*-review.md
