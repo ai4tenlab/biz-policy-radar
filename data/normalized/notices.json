@@ -1,5 +1,48 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125337",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125337",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-12T07:33:00+09:00",
+    "source_published_at": "2026-08-11",
+    "source_updated_at": null,
+    "title": "2026년 목재 수출 지원사업(바우처) 준비기업 추가모집 공고",
+    "issuer": "산림청",
+    "executor": "한국임업진흥원",
+    "application_start_at": "2026-08-05T00:00:00+09:00",
+    "deadline": "2026-08-19",
+    "deadline_status": "soon",
+    "support_target": "목재류 HS코드로 수출 가능한 목재·목재제품 또는 관련 설비 등을 생산하는 업체 중 수출실적 3만 달러 미만이거나 수출을 준비 중인 기업",
+    "support_summary": "목재·목재제품 관련 준비 수출기업이 해외 판로개척 바우처 활용을 검토할 수 있는 추가모집 공고입니다. 공식 공고상 수출컨설팅, 전문인력 양성, 지식재산권 출원, 해외인증 취득, 해외박람회 참가, 샘플 통관·운송, 홍보 콘텐츠 제작 등 수출 준비·마케팅 서비스 지원이 언급되며, 이메일 접수 방식입니다.",
+    "theme": [
+      "수출",
+      "바우처",
+      "판로"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "중소기업",
+      "목재기업",
+      "수출준비기업"
+    ],
+    "application_method": "이메일 접수(hsb1217@kofpi.or.kr)",
+    "inquiry": "한국임업진흥원 목재산업실 02-6393-2636",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000125337-20260812",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-wood-export-voucher-ready-companies",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-12 07:33 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원내용, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125352",
     "source_name": "기업마당",
     "source_grade": "S",
@@ -17,9 +60,20 @@
     "deadline_status": "soon",
     "support_target": "경상남도 HACCP 지정업소 또는 적용 희망업소, 식품제조·가공업소, 식품위생검사기관, 식품접객업소 등",
     "support_summary": "경남 소재 식품 관련 업소가 시설개선을 위해 식품진흥기금 융자를 검토할 수 있는 공고입니다. 공식 공고상 대상별 5천만 원~2억 원 융자가 언급되며, 영업장 소재지 관할 시·군 식품위생부서 방문 접수가 필요합니다.",
-    "theme": ["금융", "융자", "시설개선"],
-    "region": ["경남"],
-    "segment": ["소상공인", "개인사업자", "중소기업", "음식점"],
+    "theme": [
+      "금융",
+      "융자",
+      "시설개선"
+    ],
+    "region": [
+      "경남"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "중소기업",
+      "음식점"
+    ],
     "application_method": "영업장 소재지 관할 시·군 식품위생부서 방문 접수",
     "inquiry": "경상남도 식품위생과 055-211-5014 및 각 시·군 식품위생부서",
     "attachment_urls": [],
@@ -50,9 +104,19 @@
     "deadline_status": "soon",
     "support_target": "강남구 소재 본사 중소기업 중 소비재 취급 기업",
     "support_summary": "강남구에 본사를 둔 중소기업이 중국 국제수입박람회 무역사절단 참가를 검토할 수 있는 공고입니다. 전시회 참가비와 바이어 매칭비 등 수출 판로개척 비용 지원이 언급되며, 접수 기간은 2026년 8월 10일부터 8월 17일까지입니다.",
-    "theme": ["수출", "판로", "박람회"],
-    "region": ["서울", "강남구"],
-    "segment": ["중소기업", "소비재기업"],
+    "theme": [
+      "수출",
+      "판로",
+      "박람회"
+    ],
+    "region": [
+      "서울",
+      "강남구"
+    ],
+    "segment": [
+      "중소기업",
+      "소비재기업"
+    ],
     "application_method": "온라인 접수(구글폼)",
     "inquiry": "한국무역협회 마케팅전략실 02-6000-5371 / 강남구청 지역경제과 02-3423-5502",
     "attachment_urls": [],
@@ -83,9 +147,19 @@
     "deadline_status": "open",
     "support_target": "전북 도내 해양수산 관련 제조 및 가공 기업",
     "support_summary": "전북 도내 해양수산 관련 제조·가공 기업이 국내박람회 참가를 통한 판로개척 지원을 검토할 수 있는 공고입니다. 참가비, 기본 장치비, 기본 전시비품, 전시운영 등 지원이 언급되며 이메일 접수 방식입니다.",
-    "theme": ["판로", "박람회", "내수"],
-    "region": ["전북"],
-    "segment": ["중소기업", "제조업", "해양수산기업"],
+    "theme": [
+      "판로",
+      "박람회",
+      "내수"
+    ],
+    "region": [
+      "전북"
+    ],
+    "segment": [
+      "중소기업",
+      "제조업",
+      "해양수산기업"
+    ],
     "application_method": "이메일 접수(nof914@jif.re.kr, dew0120@jif.re.kr)",
     "inquiry": "전북바이오융합산업진흥원 063-210-6594, 5395",
     "attachment_urls": [],
