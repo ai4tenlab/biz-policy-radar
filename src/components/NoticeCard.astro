@@ -1,11 +1,26 @@
 ---
 const { notice } = Astro.props;
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const region = notice.region?.join(', ') || '지역 확인 필요';
+const segments = notice.segment?.join(', ') || notice.support_target || '대상 확인 필요';
+const themes = notice.theme?.join(', ') || '정책자금';
+const statusLabel = notice.deadline_status === 'soon' || notice.status === 'deadline_soon' ? '마감임박' : '정책 정보';
 ---
 <article class="card">
-  <span class="badge">{notice.status}</span>
+  <div style="display:flex;gap:6px;flex-wrap:wrap">
+    <span class="badge">{statusLabel}</span>
+    <span class="tag">{region}</span>
+    <span class="tag green">{themes}</span>
+  </div>
   <h2><a href={`${base}notices/${notice.slug}/`}>{notice.title}</a></h2>
-  <p>{notice.support_summary}</p>
-  <p><strong>기관:</strong> {notice.issuer} · <strong>마감:</strong> {notice.deadline}</p>
-  <p><strong>대상:</strong> {notice.segment.join(', ')} · <strong>주제:</strong> {notice.theme.join(', ')}</p>
+  <div class="ai-summary"><b>AI 검토 요약</b><br />{notice.support_summary}</div>
+  <div class="meta-grid">
+    <div class="meta-box"><span>대상</span><b>{segments}</b></div>
+    <div class="meta-box"><span>신청 기간</span><b>{notice.deadline || '공식 공고 확인'}</b></div>
+  </div>
+  <p class="story-copy"><strong>기관:</strong> {notice.issuer} · <strong>원문:</strong> 공식 링크 확인</p>
+  <div class="hero-actions" style="margin-top:14px">
+    <a class="pill primary" href={`${base}notices/${notice.slug}/`}>자세히 보기</a>
+    <a class="pill secondary" href={notice.source_url}>공식 공고</a>
+  </div>
 </article>
