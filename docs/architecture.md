@@ -1,6 +1,6 @@
 # Architecture
 
-Biz Policy Radar는 `source-registry → 정책 게이트 → 수집 → 정규화 → 중복/변경 탐지 → 검증 → Markdown/JSON 생성 → QA → Draft PR` 구조를 따른다.
+Policy Fund Compass는 `source-registry → 정책 게이트 → 수집 → 정규화 → 중복/변경 탐지 → 검증 → Markdown/JSON 생성 → QA → Draft PR` 구조를 따른다.
 
 ## 원칙
 

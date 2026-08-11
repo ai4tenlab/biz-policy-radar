@@ -1,4 +1,4 @@
-# Biz Policy Radar / 사업자 정책 레이더
+# Policy Fund Compass / 정책자금 나침반
 
 스타트업, 1인 사업자, 소상공인을 위한 공식 출처 기반 사업자 정책 인텔리전스 MVP입니다. 위키(Hermes Agent)가 매일 양질의 정책 콘텐츠 초안을 만들되, 자동 공개 발행이 아니라 Draft PR 기반 검토 흐름을 기본값으로 합니다.
 

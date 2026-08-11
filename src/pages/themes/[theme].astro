@@ -3,4 +3,4 @@ import BaseLayout from '../../layouts/BaseLayout.astro'; import NoticeCard from 
 export function getStaticPaths(){ return ['사업화','R&D','금융','세무','고용','디지털전환','판로','기타'].map(t=>({params:{theme:t}, props:{theme:t}})); }
 const { theme } = Astro.props; const items = notices().filter(n=>n.theme.includes(theme));
 ---
-<BaseLayout title={`${theme} | Biz Policy Radar`}><h2>{theme}</h2>{items.map(n=><NoticeCard notice={n} />)}</BaseLayout>
+<BaseLayout title={`${theme} | 정책자금 나침반 | Policy Fund Compass`}><h2>{theme}</h2>{items.map(n=><NoticeCard notice={n} />)}</BaseLayout>
