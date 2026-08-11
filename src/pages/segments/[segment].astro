@@ -4,4 +4,4 @@ const segmentLabels: Record<string, string> = { 'startup':'스타트업', 'solo-
 export function getStaticPaths(){ return ['startup', 'solo-business', 'small-business'].map(k=>({params:{segment:k}})); }
 const label = segmentLabels[Astro.params.segment as string]; const items = notices().filter(n=>n.segment.includes(label));
 ---
-<BaseLayout title={`${label} | 정책자금 나침반 | Policy Fund Compass`}><h2>{label}</h2>{items.map(n=><NoticeCard notice={n} />)}</BaseLayout>
+<BaseLayout title={`${label} | 정책자금 레이더 | Biz Policy Radar`}><h2>{label}</h2>{items.map(n=><NoticeCard notice={n} />)}</BaseLayout>
