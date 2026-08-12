@@ -1,5 +1,49 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125402",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125402",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-13T07:34:38+09:00",
+    "source_published_at": "2026-08-12",
+    "source_updated_at": null,
+    "title": "[경기] 가평군 2027년 기업환경 개선사업 모집 공고",
+    "issuer": "경기도",
+    "executor": "가평군청",
+    "application_start_at": "2026-08-06T00:00:00+09:00",
+    "deadline": "2026-09-18",
+    "deadline_status": "open",
+    "support_target": "경기도 내 소재 중소기업(제조업) 중 가평군 기업환경 개선사업 세부 분야 요건을 충족하는 기업",
+    "support_summary": "가평군 및 경기도 내 제조 중소기업이 기반시설, 노동복지, 소방안전 등 기업환경 개선 지원을 검토할 수 있는 공고입니다. 공식 공고상 열악한 기반시설 정비와 노동·작업환경, 소방시설 개선을 통한 지역경제 활성화 및 일자리 창출 목적이 확인되며, 방문 접수와 사업계획서 한글 파일 이메일 제출이 함께 요구됩니다. 분야별 지원 내용과 자부담·제출서류는 첨부 공고문 기준으로 추가 확인이 필요합니다.",
+    "theme": [
+      "경영",
+      "시설개선",
+      "작업환경",
+      "소방안전"
+    ],
+    "region": [
+      "경기",
+      "가평군"
+    ],
+    "segment": [
+      "중소기업",
+      "제조업"
+    ],
+    "application_method": "가평군청 일자리정책 기업지원팀 방문 접수 및 사업계획서 한글 파일 이메일 제출(dlwltnek123@korea.kr)",
+    "inquiry": "가평군청 일자리정책 기업지원팀 031-580-2277",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000125402-20260813",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gapyeong-2027-business-environment-improvement",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-13 07:34 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원내용, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000120252",
     "source_name": "기업마당",
     "source_grade": "S",
