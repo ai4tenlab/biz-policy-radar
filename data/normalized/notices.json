@@ -1,5 +1,48 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125346",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125346",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-12T12:31:02+09:00",
+    "source_published_at": "2026-08-11",
+    "source_updated_at": null,
+    "title": "[충남] 2026년 그린스타트업타운 오픈이노베이션 사업화 지원사업 참여기업 모집 공고",
+    "issuer": "충청남도",
+    "executor": "충남콘텐츠진흥원",
+    "application_start_at": "2026-08-14T00:00:00+09:00",
+    "deadline": "2026-09-04",
+    "deadline_status": "open",
+    "support_target": "2026 그린스타트업타운 입주기업 중 오픈이노베이션 밋업 참가기업",
+    "support_summary": "충남 그린스타트업타운 입주 스타트업이 대·중견기업, 공공기관 등 수요처와 발굴한 협력과제의 사업화 실행 자금 지원을 검토할 수 있는 공고입니다. 공식 공고상 제품·서비스 개발 및 고도화, 실증, 시제품 제작, 시험·인증, 공동사업 추진 등 협력과제 수행에 필요한 제반 비용 지원이 언급되며, 이메일 접수 후 유선으로 최종 접수 여부를 확인해야 합니다.",
+    "theme": [
+      "사업화",
+      "기술",
+      "창업"
+    ],
+    "region": [
+      "충남"
+    ],
+    "segment": [
+      "스타트업",
+      "창업기업",
+      "중소기업"
+    ],
+    "application_method": "이메일 접수(by1419@ccon.kr) 후 유선으로 최종 접수 여부 확인",
+    "inquiry": "충남콘텐츠진흥원 벤처창업본부 041-589-7102, by1419@ccon.kr",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000125346-20260812",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "chungnam-2026-green-startup-town-open-innovation-commercialization",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-12 12:31 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원내용, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125337",
     "source_name": "기업마당",
     "source_grade": "S",
