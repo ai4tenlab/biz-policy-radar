@@ -145,7 +145,7 @@
     "executor": "경상남도 및 각 시·군 식품위생부서",
     "application_start_at": null,
     "deadline": "예산 소진시까지",
-    "deadline_status": "soon",
+    "deadline_status": "open",
     "support_target": "경상남도 HACCP 지정업소 또는 적용 희망업소, 식품제조·가공업소, 식품위생검사기관, 식품접객업소 등",
     "support_summary": "경남 소재 식품 관련 업소가 시설개선을 위해 식품진흥기금 융자를 검토할 수 있는 공고입니다. 공식 공고상 대상별 5천만 원~2억 원 융자가 언급되며, 영업장 소재지 관할 시·군 식품위생부서 방문 접수가 필요합니다.",
     "theme": [
@@ -171,8 +171,8 @@
     "slug": "gyeongnam-2026-food-promotion-fund-loan",
     "status": "PASS",
     "content_status": "published",
-    "verified_at": "2026-08-11 21:50 KST",
-    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원내용, 신청방법, 문의처 확인"
+    "verified_at": "2026-08-13 00:11 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간이 '예산 소진시까지'로 유지됨을 재확인하고, 날짜 마감임박이 아닌 상시/예산소진형 공고로 상태 보정"
   },
   {
     "source_id": "bizinfo-PBLN_000000000125351",
