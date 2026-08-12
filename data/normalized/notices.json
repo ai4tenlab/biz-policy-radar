@@ -1,5 +1,50 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000120252",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120252",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-12T16:32:14+09:00",
+    "source_published_at": "2026-04-01",
+    "source_updated_at": null,
+    "title": "[경기] 2026년 1차 중소기업육성자금 융자지원계획 변경 공고",
+    "issuer": "경기도",
+    "executor": "경기신용보증재단",
+    "application_start_at": null,
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "경기도 소재 중소기업(세부 지원대상은 공식 공고문 참조)",
+    "support_summary": "경기도 소재 중소기업이 운전자금과 창업·경쟁력강화자금 등 중소기업육성자금 융자 활용을 검토할 수 있는 공고입니다. 공식 공고상 운전자금, 수출형기업·신성장혁신기업 등 대상 자금과 창경자금 지원이 언급되며, 중동 위기 대응 특별경영자금 600억 원 신설 및 특별경영 예비자금 600억 원 감액 변경사항이 확인됩니다. 온라인 또는 경기신용보증재단 지점 방문 접수 방식이며 예산 소진 전 세부 대상과 지점별 요건 확인이 필요합니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "운전자금",
+      "이차보전"
+    ],
+    "region": [
+      "경기"
+    ],
+    "segment": [
+      "중소기업",
+      "제조업",
+      "수출기업",
+      "신성장기업"
+    ],
+    "application_method": "온라인 접수(경기도중소기업육성자금 G-money) 또는 사업장 소재지 경기신용보증재단 지점 방문 접수",
+    "inquiry": "경기신용보증재단 고객센터 1577-5900 및 지점별 문의처 공고문 참조",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000120252-20260812",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gyeonggi-2026-sme-development-fund-loan-amended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-12 16:32 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원내용, 신청방법, 문의처 및 600억 원 변경사항 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125346",
     "source_name": "기업마당",
     "source_grade": "S",
