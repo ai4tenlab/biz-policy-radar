@@ -1,5 +1,50 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125391",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125391",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-13T12:30:00+09:00",
+    "source_published_at": "2026-08-12",
+    "source_updated_at": null,
+    "title": "[전남광주] 목포시 중동사태 어업용 면세유 유가연동보조금 지원사업 신청 공고",
+    "issuer": "전남광주통합특별시",
+    "executor": "목포시청",
+    "application_start_at": "2026-08-12T00:00:00+09:00",
+    "deadline": "2026-09-04",
+    "deadline_status": "open",
+    "support_target": "목포시에 주소지를 둔 어업인 중 면세유류카드를 발급받은 연·근해어업 동력어선 및 양식장 관리선(동력) 보유자",
+    "support_summary": "목포시 어업인이 중동사태에 따른 어업용 면세휘발유 가격 부담 완화를 위해 유가연동보조금 신청을 검토할 수 있는 공고입니다. 공식 공고상 2026년 4월 1일부터 9월 30일까지 어업용 면세휘발유를 사용한 어가에 인상분 정액 지원을 소급 적용하는 내용이 확인되며, 주소지 관할 시·군청 방문 접수가 필요합니다. 대상 선박, 면세유류카드 발급 여부와 사용 기간 증빙은 공고문 기준으로 추가 확인이 필요합니다.",
+    "theme": [
+      "경영",
+      "보조금",
+      "유가연동보조금",
+      "어업"
+    ],
+    "region": [
+      "전남광주",
+      "목포시"
+    ],
+    "segment": [
+      "어업인",
+      "소상공인",
+      "개인사업자"
+    ],
+    "application_method": "주소지 관할 시·군청 방문 접수",
+    "inquiry": "목포시청 수산산업과 어업지원팀 061-270-3411",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000125391-20260813",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "mokpo-2026-fishery-tax-free-fuel-subsidy",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-13 12:30 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원내용, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125402",
     "source_name": "기업마당",
     "source_grade": "S",
