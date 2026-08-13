@@ -1,5 +1,49 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125451",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125451",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-13T16:30:50+09:00",
+    "source_published_at": "2026-08-13",
+    "source_updated_at": null,
+    "title": "[경북] 칠곡군 2026년 소상공인 카드수수료 지원사업 참여점포 모집 변경 공고",
+    "issuer": "경상북도",
+    "executor": "경상북도경제진흥원",
+    "application_start_at": null,
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "2025년도 연매출액이 3억 원 이하이며 사업자등록증상 소재지가 칠곡군인 소상공인",
+    "support_summary": "칠곡군 소재 소상공인이 전년도 카드매출액 기준 카드수수료 일부 보조를 검토할 수 있는 변경 공고입니다. 기업마당 공식 상세 페이지에서 2025년도 연매출액 3억 원 이하, 사업자등록증상 칠곡군 소재 소상공인을 대상으로 전년도 카드매출액의 0.4%를 지원하며 업체당 최저 5만 원, 최대 40만 원 한도라는 조건이 확인됩니다. 예산 소진시까지 접수되는 공고이므로 온라인 또는 방문 접수 전 매출 증빙 기준과 중복 지원 제한은 공고문 기준으로 추가 확인이 필요합니다.",
+    "theme": [
+      "경영",
+      "보조금",
+      "카드수수료",
+      "경영안정"
+    ],
+    "region": [
+      "경북",
+      "칠곡군"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자"
+    ],
+    "application_method": "온라인 접수(행복카드.kr) 또는 읍·면·동 행정복지센터, 경상북도경제진흥원 민생경제지원팀, 칠곡군 소상공인연합회 방문 접수",
+    "inquiry": "경상북도경제진흥원 민생경제지원팀 1800-8730 / 칠곡군 소상공인연합회 문의처는 공고문 참조",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000125451-20260813",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "chilgok-2026-small-business-card-fee-subsidy-amended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-13 16:30 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원비율, 지원한도, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125391",
     "source_name": "기업마당",
     "source_grade": "S",
