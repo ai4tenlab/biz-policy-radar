@@ -1,5 +1,52 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125444",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125444",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-14T12:30:58+09:00",
+    "source_published_at": "2026-08-13",
+    "source_updated_at": null,
+    "title": "[강원ㆍ충청권] 2026년 5차 중소기업 R&D 전담은행 투자지원 프로그램 신청기업 모집 공고",
+    "issuer": "중소벤처기업부",
+    "executor": "중소기업기술정보진흥원",
+    "application_start_at": "2026-08-03T00:00:00+09:00",
+    "deadline": "2026-08-24",
+    "deadline_status": "open",
+    "support_target": "본사 기준 강원 및 충청권(강원ㆍ대전ㆍ세종ㆍ충남ㆍ충북) 소재 중소기업 중 최근 5년 이내 중기부 소관 R&D 지원사업 완료 판정을 받았거나 현재 수행 중인 기업",
+    "support_summary": "강원ㆍ충청권 소재 중소기업 R&D 수행기업이 전담은행 투자설명회(IR) 참여와 후속 투자심사 연계를 검토할 수 있는 공고입니다. 기업마당 공식 상세 페이지에서 본사 기준 강원ㆍ대전ㆍ세종ㆍ충남ㆍ충북 소재 중소기업 중 최근 5년 이내 중기부 R&D 완료 판정 기업 또는 현재 수행 중인 기업을 대상으로 기업은행ㆍ하나은행 IR 참여기회를 제공하고, IR 이후 관심기업은 별도 투자심사와 선별 과정을 거쳐 투자자금 지원을 검토한다는 내용이 확인됩니다. 신청은 중소기업 기술개발사업 종합관리시스템 온라인 접수이며, 마감일 전 R&D 과제 수행·완료 증빙과 지역 요건을 공고문 기준으로 추가 확인해야 합니다.",
+    "theme": [
+      "금융",
+      "투자",
+      "R&D",
+      "사업화"
+    ],
+    "region": [
+      "강원",
+      "대전",
+      "세종",
+      "충남",
+      "충북"
+    ],
+    "segment": [
+      "중소기업",
+      "R&D수행기업"
+    ],
+    "application_method": "온라인 접수(중소기업 기술개발사업 종합관리시스템)",
+    "inquiry": "중소기업기술정보진흥원 성과확산실 044-300-0716",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000125444-20260814",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gangwon-chungcheong-2026-rnd-bank-investment-program-5th",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-14 12:30 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원유형, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125449",
     "source_name": "기업마당",
     "source_grade": "S",
