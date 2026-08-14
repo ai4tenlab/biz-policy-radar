@@ -1,5 +1,63 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125486",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125486",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-15T07:34:29+09:00",
+    "source_published_at": "2026-08-14",
+    "source_updated_at": null,
+    "title": "2026년 중소기업 제조물책임(PL)보험료 지원사업 신청 공고(7월 가입자)",
+    "issuer": "중소벤처기업부",
+    "executor": "중소기업중앙회",
+    "application_start_at": "2026-08-13T00:00:00+09:00",
+    "deadline": "2026-08-27",
+    "deadline_status": "open",
+    "support_target": "증권상 사업장 소재지가 부산, 울산, 대구, 광주, 인천, 강원, 경북, 경남, 충북, 전남, 전북 또는 파주인 중소기업중앙회 PL보험 가입 중소기업 중 2026년 7월 중 보험료를 납부하고 계약을 유지 중인 업체",
+    "support_summary": "중소기업중앙회 PL보험에 가입한 중소기업이 2026년 7월 납부 보험료 일부 보조를 검토할 수 있는 공고입니다. 기업마당 공식 상세 페이지에서 증권상 사업장 소재지가 부산·울산·대구·광주·인천·강원·경북·경남·충북·전남·전북·파주인 본회 PL보험 가입 중소기업을 대상으로 하며, 2026년 7월 중 보험료를 납부하고 계약을 유지 중인 업체가 기본 대상이라는 점이 확인됩니다. 지원 내용은 2026년 기준 보험료의 10~30%, 최대 100만~200만 원 범위이나 지자체별 지원율과 한도가 다르므로 온라인 신청 전 지역별 신청서의 세부 기준을 추가 확인해야 합니다.",
+    "theme": [
+      "금융",
+      "보조금",
+      "보험료",
+      "제조물책임",
+      "경영안정"
+    ],
+    "region": [
+      "부산",
+      "울산",
+      "대구",
+      "광주",
+      "인천",
+      "강원",
+      "경북",
+      "경남",
+      "충북",
+      "전남",
+      "전북",
+      "경기 파주시"
+    ],
+    "segment": [
+      "중소기업",
+      "제조업",
+      "PL보험 가입기업"
+    ],
+    "application_method": "온라인 접수(중소기업중앙회, 지역별 신청사이트 확인)",
+    "inquiry": "중소기업중앙회 PL손해공제실 02-2124-4351, 4352, 4353, 4354",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769331&fileSn=1"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125486-20260815",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-sme-pl-insurance-premium-subsidy-july",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-15 07:34 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원비율과 한도, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125467",
     "source_name": "기업마당",
     "source_grade": "S",
