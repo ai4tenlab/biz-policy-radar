@@ -1,5 +1,51 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125467",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125467",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-14T16:31:14+09:00",
+    "source_published_at": "2026-08-14",
+    "source_updated_at": null,
+    "title": "[충남] 청양군 2026년 5차 음식점 시설개선 지원사업 계획 공고",
+    "issuer": "충청남도",
+    "executor": "청양군청",
+    "application_start_at": "2026-08-12T00:00:00+09:00",
+    "deadline": "2026-08-31",
+    "deadline_status": "open",
+    "support_target": "영업신고(지위승계 포함) 후 2년이 경과된 청양군 관내 일반음식점, 휴게음식점, 제과점 영업자",
+    "support_summary": "청양군 관내 일반음식점ㆍ휴게음식점ㆍ제과점 영업자가 주방·위생 설비와 입식 테이블 등 시설개선 비용 보조를 검토할 수 있는 공고입니다. 기업마당 공식 상세 페이지에서 영업신고 또는 지위승계 후 2년이 경과한 청양군 관내 업소를 대상으로 1개소당 500만 원 한도 지원이 확인됩니다. 지원 항목은 주방 개ㆍ보수, CCTV 등 개방형 주방 확인 설비, 환기ㆍ세척 설비, 냉장고ㆍ조리기구 등 집기 일부, 좌식에서 입식 테이블 교체 등이며, 신청은 2026년 8월 31일까지 청양군청 행복민원과 위생팀 방문 접수입니다. 세부 자부담, 집기 구입비 인정 범위와 제출서류는 첨부 공고문 기준으로 추가 확인해야 합니다.",
+    "theme": [
+      "경영",
+      "보조금",
+      "시설개선",
+      "위생관리",
+      "경영안정"
+    ],
+    "region": [
+      "충남",
+      "청양군"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "음식점"
+    ],
+    "application_method": "방문 접수(청양군청 행복민원과 위생팀)",
+    "inquiry": "청양군청 행복민원과 위생팀 041-940-2183",
+    "attachment_urls": [],
+    "raw_hash": "bizinfo-PBLN_000000000125467-20260814",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "cheongyang-2026-restaurant-facility-improvement-5th",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-14 16:31 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원내용 및 한도, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125444",
     "source_name": "기업마당",
     "source_grade": "S",
