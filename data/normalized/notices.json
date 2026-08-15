@@ -1,5 +1,56 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125482",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125482",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-15T12:31:04+09:00",
+    "source_published_at": "2026-08-14",
+    "source_updated_at": null,
+    "title": "[경기] 김포시 2026년 에너지효율시장 조성사업 참여기업 모집 공고",
+    "issuer": "경기도",
+    "executor": "김포산업지원센터",
+    "application_start_at": "2026-08-12T00:00:00+09:00",
+    "deadline": "2026-08-28",
+    "deadline_status": "open",
+    "support_target": "공고일 현재 김포시에 사업장(공장)이 등록된 중소기업",
+    "support_summary": "김포시에 사업장 또는 공장을 둔 중소기업이 노후·비효율 설비를 고효율 설비로 교체하는 비용 지원을 검토할 수 있는 공고입니다. 기업마당 공식 상세 페이지에서 신청기간은 2026년 8월 12일부터 8월 28일까지이며, 공고일 현재 김포시에 사업장(공장)이 등록된 중소기업을 대상으로 한다는 점이 확인됩니다. 지원 내용은 기존 노후·비효율 설비의 고효율 설비 구입비용으로, 기업당 최대 1,000만 원 한도입니다. 신청은 이메일 또는 우편 접수 방식이므로 장비·설비 인정 범위, 자부담 여부, 제출서류는 첨부 공고문과 운영지침 기준으로 추가 확인해야 합니다.",
+    "theme": [
+      "경영",
+      "보조금",
+      "시설개선",
+      "에너지효율",
+      "탄소중립"
+    ],
+    "region": [
+      "경기",
+      "김포시"
+    ],
+    "segment": [
+      "중소기업",
+      "제조업",
+      "김포시 사업장 등록기업"
+    ],
+    "application_method": "이메일 또는 우편 접수(이메일: dhkim@gopa.or.kr / 접수처: 김포시 양촌읍 황금1로 122 5층 김포산업지원센터)",
+    "inquiry": "김포산업지원센터 기업육성팀 070-4269-4085",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769321&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769322&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769322&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769322&fileSn=2"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125482-20260815",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gimpo-2026-energy-efficiency-market",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-15 12:31 KST",
+    "change_summary": "기업마당 공식 상세 페이지에서 신청기간, 대상, 지원한도, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125486",
     "source_name": "기업마당",
     "source_grade": "S",
