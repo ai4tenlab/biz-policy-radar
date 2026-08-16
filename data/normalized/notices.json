@@ -1,5 +1,56 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125410",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125410",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-17T07:35:21+09:00",
+    "source_published_at": "2026-08-13",
+    "source_updated_at": "2026-08-04",
+    "title": "[강원] 양양군 2026년 2차 소상공인 특례보증 지원사업 공고",
+    "issuer": "강원특별자치도",
+    "executor": "양양군ㆍ강원신용보증재단",
+    "application_start_at": "2026-08-03T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "신청일 기준 양양군에 3개월 이상 사업장과 주민등록을 두고 운영 중인 소상공인 중 개인사업자(중소기업 제외, 보증 제한 업종 등 제외)",
+    "support_summary": "양양군에 사업장과 주민등록을 두고 3개월 이상 운영 중인 소상공인 개인사업자가 운전자금 목적의 특례보증을 검토할 수 있는 공고입니다. 기업마당 상세 페이지와 양양군청 공고문에서 사업기간은 2026년 8월 3일부터 자금 소진 시까지이며, 지원대상은 양양군 내 사업장ㆍ주민등록 요건을 충족한 소상공인 개인사업자라는 점이 확인됩니다. 공고문 기준 지원규모는 22억 5천만 원, 보증한도는 업체별 5천만 원 이내이고, 보증기간은 5년 이내, 보증수수료는 연 0.8% 고정입니다. 신청은 강원신용보증재단 보증드림 온라인 신청 또는 강원신용보증재단 상담ㆍ방문 절차로 진행되므로, 휴ㆍ폐업, 체납, 보증 제한 업종, 재단 보증심사 기준 저촉 여부는 공고문과 재단 상담에서 추가 확인해야 합니다.",
+    "theme": [
+      "금융",
+      "특례보증",
+      "운전자금",
+      "경영안정자금",
+      "소상공인지원",
+      "보증"
+    ],
+    "region": [
+      "강원",
+      "양양군"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "양양군 소재 사업자"
+    ],
+    "application_method": "온라인 접수(강원신용보증재단 보증드림) 또는 강원신용보증재단 상담ㆍ방문 접수",
+    "inquiry": "양양군청 경제에너지과 소상공인지원팀 033-670-2957 / 강원신용보증재단 속초지점 033-260-0071",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769044&fileSn=0",
+      "https://www.yangyang.go.kr/gw/portal/yyc_news_notice?mode=readForm&boardCode=BDAABB01&curPage=1&searchExpCnt=15&searchFieldContent=&searchFieldName=&searchFieldTitle=&searchFieldETC=&articleSeq=256069",
+      "https://untact.koreg.or.kr/"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125410-20260817",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "yangyang-2026-small-business-special-guarantee-2nd",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-17 07:35 KST",
+    "change_summary": "기업마당 상세 페이지, 양양군청 원문, 첨부 공고문에서 신청기간, 지원대상, 지원규모ㆍ보증한도, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125497",
     "source_name": "기업마당",
     "source_grade": "S",
