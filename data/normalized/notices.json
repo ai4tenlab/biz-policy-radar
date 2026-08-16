@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125497",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125497",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-16T16:31:15+09:00",
+    "source_published_at": "2026-08-14",
+    "source_updated_at": null,
+    "title": "수성알파시티 기업 전용 5G 기반 통신망 서비스 지원 대상 기업 1차 모집 공고",
+    "issuer": "국토교통부",
+    "executor": "대구테크노파크",
+    "application_start_at": "2026-08-14T00:00:00+09:00",
+    "deadline": "2026-08-28",
+    "deadline_status": "open",
+    "support_target": "스마트도시 서비스 및 개발 역량을 보유한 국내 법인사업자(실증은 대구 수성구 알파시티 스마트도시 특화단지 내 수행)",
+    "support_summary": "스마트도시 서비스나 개발 역량을 가진 국내 법인사업자가 수성알파시티 내 실증에 필요한 기업 전용 5G 기반 통신망 이용 지원을 검토할 수 있는 공고입니다. 기업마당과 대구테크노파크 공식 상세 페이지에서 신청기간은 2026년 8월 14일부터 8월 28일까지이며, 대상은 스마트도시 서비스 및 개발 역량을 보유한 국내 법인사업자라는 점이 확인됩니다. 지원 내용은 기업 전용 5G 기반 통신망으로, 기업당 월 750GB를 최대 10개사에 제공하고 서비스 제공 기간은 2026년 9월 1일부터 10월 31일까지 2개월입니다. 신청은 smartcity@dgtp.or.kr 이메일 접수 방식이므로, 실증 장소 요건과 신청서ㆍ결과보고 양식은 첨부 공고문 기준으로 추가 확인해야 합니다.",
+    "theme": [
+      "기술",
+      "스마트도시",
+      "5G",
+      "실증",
+      "통신망",
+      "디지털전환"
+    ],
+    "region": [
+      "대구",
+      "수성구"
+    ],
+    "segment": [
+      "법인사업자",
+      "중소기업",
+      "스마트도시기업",
+      "기술실증기업"
+    ],
+    "application_method": "이메일 접수(smartcity@dgtp.or.kr)",
+    "inquiry": "대구테크노파크 지능도시본부 스마트시티센터 053-795-9764",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769339&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769340&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769340&fileSn=1",
+      "https://www.ttp.org/bbs/BoardControllView.do?bbsId=BBSMSTR_000000000003&movieFlag=&nttId=15702&pageIndex=1&pageUnit=10&lastUpdusrId="
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125497-20260816",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "suseong-alpha-city-2026-5g-network-service-1st",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-16 16:31 KST",
+    "change_summary": "기업마당 및 대구테크노파크 공식 상세 페이지에서 신청기간, 대상, 지원내용ㆍ규모, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125493",
     "source_name": "기업마당",
     "source_grade": "S",
