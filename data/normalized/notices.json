@@ -1,5 +1,56 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125496",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125496",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-17T16:31:38+09:00",
+    "source_published_at": "2026-08-14",
+    "source_updated_at": "2026-07",
+    "title": "[제주] 제주우수제품품질인증(JQ) 인증기업 시험성적서 비용 지원 참여기업 모집 공고",
+    "issuer": "제주특별자치도",
+    "executor": "제주특별자치도경제통상진흥원",
+    "application_start_at": "2026-07-16T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "2025년 12월 31일 이전 제주우수제품품질인증(JQ)을 획득했고 신청일 기준 인증기간이 유효한 중소기업(2026년 신규ㆍ재인증 획득기업, 체납ㆍ채무불이행 업체, 동일 품목 유사 지원 수혜 등 제외)",
+    "support_summary": "2025년 12월 31일 이전 JQ 인증을 획득한 제주 인증기업이 2026년 품질검사ㆍ시험성적서 비용 일부 지원을 검토할 수 있는 공고입니다. 기업마당 상세 페이지와 첨부 공고문에서 접수기간은 2026년 7월 16일부터 예산 소진 시까지이며, 선정은 선착순 신청에 따라 지원금 지급 방식으로 진행된다는 점이 확인됩니다. 공고문 기준 지원내용은 기업당 최대 100만 원, 품목당 50만 원 한도의 실비 지원이고, JQ 인증 품목에 대한 2026년 품질검사 비용만 대상입니다. 신청은 제주특별자치도경제통상진흥원 기업성장팀 이메일 또는 방문 접수 방식이므로, 인증기간 만료 여부, 동일 품목 중복지원, 국세ㆍ지방세 체납, 도내 품질검사기관 이용 요건은 공고문과 수행기관 상담에서 추가 확인해야 합니다.",
+    "theme": [
+      "기술",
+      "품질인증",
+      "시험성적서",
+      "보조금",
+      "인증유지",
+      "중소기업지원"
+    ],
+    "region": [
+      "제주"
+    ],
+    "segment": [
+      "중소기업",
+      "제주 소재 사업자",
+      "JQ 인증기업",
+      "품질검사 비용 부담 기업"
+    ],
+    "application_method": "이메일 또는 방문 접수(제주특별자치도경제통상진흥원 기업성장팀 / gusdl9312@naver.com / 제주시 연삼로 473 지하1층 기업성장팀)",
+    "inquiry": "제주특별자치도경제통상진흥원 기업성장팀 064-805-3397",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769358&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769357&fileSn=0",
+      "https://www.jba.or.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=794#boardarea"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125496-20260817",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "jeju-2026-jq-certification-test-report-cost-subsidy",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-17 16:31 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 공고문 PDF에서 신청기간, 지원대상, 기업당ㆍ품목당 지원한도, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125495",
     "source_name": "기업마당",
     "source_grade": "S",
