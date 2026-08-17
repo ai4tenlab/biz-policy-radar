@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125495",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125495",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-17T12:31:51+09:00",
+    "source_published_at": "2026-08-14",
+    "source_updated_at": null,
+    "title": "[제주] 2026년 단시간 노동자 일자리 지원사업 참여기업 모집 공고",
+    "issuer": "제주특별자치도",
+    "executor": "제주특별자치도경제통상진흥원",
+    "application_start_at": "2026-08-10T00:00:00+09:00",
+    "deadline": "2026-08-31",
+    "deadline_status": "open",
+    "support_target": "제주특별자치도에 사업자등록을 하고 2026년 4월 1일 이후 주 30시간 이하 노동자를 채용해 고용보험ㆍ산재보험 취득신고를 한 중소기업(중소기업확인서 또는 소상공인확인서 필요)",
+    "support_summary": "제주도 내 중소기업 또는 소상공인이 2026년 4월 1일 이후 채용한 주 30시간 이하 단시간 노동자 인건비 일부 지원을 검토할 수 있는 공고입니다. 기업마당 상세 페이지와 첨부 공고문에서 신청기간은 2026년 8월 10일부터 8월 31일까지이며, 예산 소진 시 조기 마감될 수 있다는 점이 확인됩니다. 공고문 기준 모집인원은 40명 이내이고, 지원은 근무 1시간당 5천 원, 1일 최대 5시간ㆍ2만5천 원, 월 최대 50만 원, 4개월 최대 200만 원이며 기업당 노동자 최대 5인까지 신청 가능합니다. 신청은 제주경제통상진흥원 기업성장팀 방문 또는 이메일 접수 방식이므로, 4대보험 체납ㆍ지방세 체납ㆍ중복 인건비 지원ㆍ제외 업종 여부와 노동자 연령ㆍ주소 요건은 공고문과 수행기관 상담에서 추가 확인해야 합니다.",
+    "theme": [
+      "고용",
+      "인건비",
+      "보조금",
+      "일자리",
+      "소상공인지원",
+      "중소기업지원"
+    ],
+    "region": [
+      "제주"
+    ],
+    "segment": [
+      "중소기업",
+      "소상공인",
+      "제주 소재 사업자",
+      "단시간 노동자 채용기업"
+    ],
+    "application_method": "방문 또는 이메일 접수(제주특별자치도경제통상진흥원 기업성장팀 / xodnd255@jba.or.kr, 이메일 제출 후 확인전화 필수)",
+    "inquiry": "제주특별자치도경제통상진흥원 기업육성처 기업성장팀 064-800-7624 / 제주특별자치도 경제일자리과 064-710-3795",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769356&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769356&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769356&fileSn=2",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769355&fileSn=0",
+      "https://www.jba.or.kr/bbs/board.php?bo_table=2_1_1_1&wr_id=802#boardarea"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125495-20260817",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "jeju-2026-part-time-worker-wage-subsidy",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-17 12:31 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 공고문 PDF에서 신청기간, 지원대상, 모집인원, 시간당ㆍ월ㆍ4개월 지원한도, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125410",
     "source_name": "기업마당",
     "source_grade": "S",
