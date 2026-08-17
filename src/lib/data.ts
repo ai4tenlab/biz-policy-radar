@@ -16,6 +16,7 @@ export function publicSummary() {
   return {
     published: items.length,
     deadlineSoon: items.filter((n: any) => n.deadline_status === 'soon').length,
+    closed: items.filter((n: any) => n.deadline_status === 'closed').length,
     updatedAt: items[0]?.verified_at ?? null,
   };
 }

@@ -4,7 +4,9 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
 const region = notice.region?.join(', ') || '지역 확인 필요';
 const segments = notice.segment?.join(', ') || notice.support_target || '대상 확인 필요';
 const themes = notice.theme?.join(', ') || '정책자금';
-const statusLabel = notice.deadline_status === 'soon' || notice.status === 'deadline_soon' ? '마감임박' : '정책 정보';
+const statusLabel = notice.deadline_status === 'closed'
+  ? '마감됨'
+  : (notice.deadline_status === 'soon' || notice.status === 'deadline_soon' ? '마감임박' : '정책 정보');
 ---
 <article class="card">
   <div style="display:flex;gap:6px;flex-wrap:wrap">
