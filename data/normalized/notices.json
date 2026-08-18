@@ -1,5 +1,62 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125499",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125499",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-18T16:33:43+09:00",
+    "source_published_at": "2026-08-18",
+    "source_updated_at": "2026-08-11",
+    "title": "[서울] 용산구 이태원 1ㆍ2동 대상 특별 중소기업육성기금 융자지원계획 공고",
+    "issuer": "서울특별시 용산구",
+    "executor": "용산구청 지역경제과",
+    "application_start_at": "2026-08-12T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "이태원 1ㆍ2동 내 매장형 업체를 운영 중인 중소기업자 및 소상공인. 일반ㆍ무도 유흥주점, 금융ㆍ보험ㆍ연금ㆍ부동산업(부동산 관련 서비스업 제외), 도박ㆍ사치ㆍ향락ㆍ사행성 업종 등 공고문상 융자 지원 제외업종은 제외될 수 있음",
+    "support_summary": "이태원 1ㆍ2동에서 매장형 업체를 운영하는 중소기업자와 소상공인이 용산구 특별 중소기업육성기금 융자를 검토할 수 있는 공고입니다. 기업마당 상세 페이지, 용산구청 고시ㆍ공고 원문, 첨부 공고문에서 융자지원액은 총 10억 원, 신청기간은 2026년 8월 12일부터 자금 소진 시까지라는 점이 확인됩니다. 공고문 기준 업체당 융자한도는 중소기업 3억 원 이내, 소상공인 1억 원 이내이며, 용도는 운영ㆍ시설ㆍ기술개발자금, 대출금리는 연 1.5%, 상환방식은 2년 거치 3년 균등상환입니다. 신청은 용산구청 우리은행 중소기업육성기금 원스톱서비스 창구 방문 접수이며, 신용보증서 담보 제공 시 서울신용보증재단 용산종합지원센터 사전상담이 필요합니다. 심의위원회 심의 결과와 금융기관 담보평가액에 따라 융자금 조정 또는 제외 가능성이 있으므로 담보능력, 제외업종, 구비서류를 신청 전 추가 확인해야 합니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "중소기업육성기금",
+      "운전자금",
+      "시설자금",
+      "기술개발자금",
+      "경영안정자금",
+      "소상공인지원"
+    ],
+    "region": [
+      "서울",
+      "용산구",
+      "이태원1동",
+      "이태원2동"
+    ],
+    "segment": [
+      "중소기업",
+      "소상공인",
+      "매장형 업체",
+      "이태원 1ㆍ2동 소재 사업자"
+    ],
+    "application_method": "방문 접수(용산구청 우리은행 중소기업육성기금 원스톱서비스 창구). 신용보증서 담보 제공 시 서울신용보증재단 용산종합지원센터 사전상담 필수",
+    "inquiry": "우리은행 중소기업육성기금 원스톱창구 02-795-8014(내선 311), 서울신용보증재단 용산종합지원센터 02-2174-4721ㆍ4727, 용산구청 지역경제과 지역경제팀 02-2199-6784",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769409&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769410&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769410&fileSn=1",
+      "https://www.yongsan.go.kr/portal/bbs/B0000095/view.do?nttId=767021&menuNo=200233&pageUnit=10&pageIndex=3"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125499-20260818",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "yongsan-2026-itaewon-special-sme-fund-loan",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-18 16:33 KST",
+    "change_summary": "기업마당 상세 페이지, 용산구청 고시ㆍ공고 원문, 첨부 공고문 HWPX에서 총 융자지원액 10억 원, 지원대상, 중소기업 3억 원ㆍ소상공인 1억 원 한도, 연 1.5%ㆍ2년 거치 3년 균등상환, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125415",
     "source_name": "기업마당",
     "source_grade": "S",
