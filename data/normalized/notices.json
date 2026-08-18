@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125415",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125415",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-18T12:33:00+09:00",
+    "source_published_at": "2026-08-13",
+    "source_updated_at": "2026-08-12",
+    "title": "24차 디자인전문기업 금융지원 희망기업 모집 공고",
+    "issuer": "산업통상부",
+    "executor": "한국디자인진흥원",
+    "application_start_at": "2026-08-12T00:00:00+09:00",
+    "deadline": "2026-08-25",
+    "deadline_status": "open",
+    "support_target": "기술력과 성장잠재력이 우수한 디자인전문기업 및 KIDP 지원 관련 사업 선정 이력이 있는 디자인 활용기업(벤처ㆍ창업ㆍ제조기업 등). 동일 사업ㆍ법인 명의로 기술보증기금 보증을 이용 중인 기업, 동일 사업주의 중복 기업, 국세ㆍ지방세 체납 기업 등은 제외될 수 있음",
+    "support_summary": "디자인전문기업 또는 KIDP 지원사업 선정 이력이 있는 디자인 활용기업이 기술보증기금 보증 기반 금융지원을 검토할 수 있는 공고입니다. 기업마당 상세 페이지, 한국디자인진흥원 원문, 첨부 공고문에서 신청기간은 2026년 8월 12일부터 8월 25일까지이며, 신청은 designfinance@kidp.or.kr 이메일 접수 방식이라는 점이 확인됩니다. 공고문 기준 모집규모는 20개사 내외이고, 지원내용은 기업별 1억 원 이상 보증한도(1억 원까지 100% 보증), 기술평가료 20만 원, 보증료율 0.4%p 감면에 준하는 지원ㆍ감면, 보증서 발급일로부터 3년 지원입니다. 기술보증기금 심사 결과에 따라 1억 원 초과 지원 또는 1억 원 미만 심사 보증금액 이내 지원이 가능하므로, 기존 기보 보증 이용 여부, 체납 여부, 보증지원 결격사유, 적정성 검토 통과 후 기보 상담 절차는 신청 전 추가 확인해야 합니다.",
+    "theme": [
+      "금융",
+      "보증",
+      "보증료지원",
+      "기술평가료",
+      "디자인전문기업",
+      "경영안정자금"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "중소기업",
+      "디자인전문기업",
+      "디자인활용기업",
+      "벤처기업",
+      "창업기업",
+      "제조기업"
+    ],
+    "application_method": "이메일 접수(designfinance@kidp.or.kr). 적정성 검토 통과 후 기술보증기금 영업점 또는 디지털지점을 통한 보증신청ㆍ상담 절차 진행",
+    "inquiry": "한국디자인진흥원 산업육성실 031-780-2167, designfinance@kidp.or.kr",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769068&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769069&fileSn=1",
+      "https://kidp.or.kr/?menuno=1202&bbsno=19188&siteno=16&act=view&ztag=rO0ABXQAMzxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNjIyIiBza2luPSJraWRwX2JicyI%2BPC9jYWxsPg%3D%3D"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125415-20260818",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-design-company-finance-guarantee-24th",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-18 12:33 KST",
+    "change_summary": "기업마당 상세 페이지, 한국디자인진흥원 원문, 첨부 공고문 PDF에서 신청기간, 지원대상, 20개사 내외 모집규모, 보증한도ㆍ기술평가료ㆍ보증료 지원, 신청방법, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125411",
     "source_name": "기업마당",
     "source_grade": "S",
