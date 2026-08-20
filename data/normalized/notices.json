@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125558",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125558",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-20T16:33:09+09:00",
+    "source_published_at": "2026-08-19",
+    "source_updated_at": "2026-08-13",
+    "title": "[서울] 마포구 2026년 하반기 중소기업육성기금 융자 추가모집 공고",
+    "issuer": "서울특별시 마포구",
+    "executor": "마포구청 경제진흥과",
+    "application_start_at": "2026-08-18T00:00:00+09:00",
+    "deadline": "2026-08-26",
+    "deadline_status": "soon",
+    "support_target": "공고일 기준 사업자등록 6개월이 경과한 마포구 소재 중소기업 및 소상공인 중 은행 여신규정상 부동산 또는 신용보증서 담보능력이 있는 사업자. 마포구 중소기업육성기금 등 구 기금 융자 상환 중이거나 상환 후 1년 미경과 기업, 최근 1년 이내 서울신용보증재단 신용보증 이용 기업, 국세ㆍ지방세 체납 기업, 휴ㆍ폐업 사업체, 2025년 매출액 0원 업체, 서울신용보증재단 보증제한업종 등은 제외될 수 있음",
+    "support_summary": "마포구에 사업장을 둔 중소기업과 소상공인이 운전자금 또는 시설자금 융자를 검토할 수 있는 추가모집 공고입니다. 기업마당 상세 페이지와 첨부 공고문에서 신청기간은 2026년 8월 18일부터 8월 26일까지, 융자규모는 총 20억 원, 대출금리는 연 1.0% 고정이라는 점이 확인됩니다. 공고문 기준 융자한도는 중소기업 1억 원, 소상공인 7천만 원, 음식점업 5천만 원이며, 상환조건은 2년 거치 3년 균등분할상환입니다. 신청은 마포구청 8층 경제진흥과 방문 접수 방식이고, 재원 소진 시 선착순 조기 마감될 수 있으므로 신청 전 경제진흥과에 접수 가능 여부와 담보ㆍ신용보증서 심사 가능성을 확인해야 합니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "중소기업육성기금",
+      "운전자금",
+      "시설자금",
+      "경영안정자금",
+      "소상공인지원"
+    ],
+    "region": [
+      "서울",
+      "마포구"
+    ],
+    "segment": [
+      "중소기업",
+      "소상공인",
+      "마포구 소재 사업자",
+      "음식점업"
+    ],
+    "application_method": "방문 접수. 접수처는 서울특별시 마포구 월드컵로 212 마포구청 8층 경제진흥과이며, 재원 소진 시까지 선착순 모집으로 조기 마감될 수 있어 신청 전 02-3153-8576으로 신청 가능 여부 확인 필요",
+    "inquiry": "마포구청 경제진흥과 02-3153-8576",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769647&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769648&fileSn=0",
+      "https://www.mapo.go.kr/site/main/nPortal/detail?bcId=20834"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125558-20260820",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "mapo-2026-second-half-sme-fund-loan-additional",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-20 16:33 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 HWP 공고문에서 신청기간, 지원대상, 총 융자규모 20억 원, 중소기업 1억 원ㆍ소상공인 7천만 원ㆍ음식점업 5천만 원 한도, 연 1.0% 고정금리, 2년 거치 3년 균등분할상환, 방문 접수, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125528",
     "source_name": "기업마당",
     "source_grade": "S",
