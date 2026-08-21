@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125684",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125684",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-22T07:35:00+09:00",
+    "source_published_at": "2026-08-21",
+    "source_updated_at": "2026-08-21",
+    "title": "2026년도 딥테크 특화 창업중심대학 추천형 창업기업 모집 공고",
+    "issuer": "중소벤처기업부",
+    "executor": "창업진흥원 및 4대 과학기술원 주관기관",
+    "application_start_at": "2026-08-21T00:00:00+09:00",
+    "deadline": "2026-09-04",
+    "deadline_status": "open",
+    "support_target": "신산업 창업 분야의 창업 10년 이내 창업기업 중 4대 과학기술원(GIST, DGIST, UNIST, KAIST)의 추천을 받은 기업. 공고문 기준 2016년 8월 21일 이후 창업한 개인·법인사업자여야 하며, 추천받은 과학기술원 1곳을 주관기관으로 선택해 신청해야 함. 채무불이행, 국세·지방세 체납, 창업지원 제외 업종, 동일·유사 창업사업화 지원 이력, 2026년 타 창업사업화 지원사업 수행, 휴·폐업 등은 제외될 수 있음",
+    "support_summary": "신산업·딥테크 분야 창업 10년 이내 기업이 4대 과학기술원의 추천을 받은 경우 사업화 자금과 창업 프로그램을 검토할 수 있는 창업기업 모집 공고입니다. 기업마당 상세 페이지와 중소벤처기업부 사업공고 원문에서 공고·접수 기간은 2026년 8월 21일부터 9월 4일 16시까지, 접수 방법은 K-Startup 누리집 온라인 접수라는 점이 확인됩니다. 공고문 기준 지원 내용은 시제품 제작, 지식재산권 취득, BM 개선 등에 필요한 사업화 자금 평균 1억 2천만 원 내외(최대 1억 5천만 원)와 딥테크 특화·수요맞춤형 창업 프로그램입니다. 총사업비는 정부지원사업비 70% 이하와 창업기업 자기부담사업비 30% 이상(현금 10% 이상, 현물 20% 이하) 구조이며, 선정평가 결과에 따라 사업화 자금은 차등 지원될 수 있습니다. 신청 전 추천 과학기술원 요건, 창업기업 확인서, 중복지원 제한, 자기부담금 준비 여부를 K-Startup과 주관기관 담당자에게 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "창업",
+      "사업화",
+      "보조금",
+      "딥테크",
+      "신산업",
+      "창업중심대학",
+      "기술사업화"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "창업기업",
+      "중소기업",
+      "딥테크 창업기업",
+      "4대 과학기술원 추천기업"
+    ],
+    "application_method": "K-Startup 누리집 온라인 접수. 창업기업은 추천받은 과학기술원 1곳을 주관기관으로 선택해 2026년 9월 4일 16시까지 신청",
+    "inquiry": "시스템 문의 국번없이 1357. 사업 문의는 공고문에 기재된 주관기관 담당자 참조",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770144&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770143&fileSn=0",
+      "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1070649&parentSeq=1070649",
+      "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125684-20260822",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-deeptech-specialized-startup-university-recommended-startups",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-22 07:35 KST",
+    "change_summary": "기업마당 상세 페이지와 중소벤처기업부 사업공고 원문, 첨부 PDF에서 제목·등록일, 접수기간 2026년 8월 21일~9월 4일 16시, K-Startup 온라인 접수, 창업 10년 이내 및 4대 과학기술원 추천 요건, 사업화 자금 평균 1억 2천만 원 내외·최대 1억 5천만 원, 정부지원 70% 이하와 자기부담 30% 이상 구조, 문의 경로 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125689",
     "source_name": "기업마당",
     "source_grade": "S",
