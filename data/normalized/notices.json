@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125689",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125689",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-21T16:31:30+09:00",
+    "source_published_at": "2026-08-21",
+    "source_updated_at": "2026-08-20",
+    "title": "[대구] 2026년 AI 로봇 글로벌 혁신특구 수혜기업 추가 모집 공고",
+    "issuer": "중소벤처기업부",
+    "executor": "대구기계부품연구원",
+    "application_start_at": "2026-08-20T00:00:00+09:00",
+    "deadline": "2026-09-03",
+    "deadline_status": "open",
+    "support_target": "「글로벌 혁신 규제자유특구계획」에서 지정된 특구사업자 중 규제자유특구 재정지원사업 운영요령 제10조의 수행기관 자격에 해당하고, 부여받은 실증특례를 활용해 신산업 책임보험 및 글로벌 진출(해외실증·해외인증)을 주도적으로 추진할 수 있는 대구 AI 로봇 관련 기업·기관. 휴·폐업, 국세·지방세 체납, 금융기관 불량거래처 규제, 정부·공공기관 참여제한, 중진공 해외사업 부정당업자, 사행성·사치성 등 지원제외 업종은 제외될 수 있음",
+    "support_summary": "대구 AI 로봇 글로벌 혁신특구에서 지정된 특구사업자가 국내 실증 책임보험 또는 해외인증 비용 지원을 검토할 수 있는 추가 모집 공고입니다. 기업마당 상세 페이지와 대구기계부품연구원 원문, 공고문 PDF에서 접수기간은 2026년 8월 20일부터 9월 3일 18시까지, 접수방법은 담당자 이메일 제출이라는 점이 확인됩니다. 공고문 기준 지원유형은 신산업 책임보험료와 해외인증 지원으로 나뉘며, 신산업 보험은 22개 기업 이내·기업당 630만 원 이내, 해외인증은 2개 기업 내외·기업당 1억 1,550만 원 이내입니다. 기업별 사업비는 국비 70% 이내, 지방비 20% 이상, 민간부담금 10% 이상으로 구성되며 선정평가위원회 결과에 따라 지원기업 수와 규모가 달라질 수 있습니다. 신청 전 특구사업자 지정 여부, 민간부담금 준비, 제외요건, 제출서류를 대구기계부품연구원 공고문과 담당자에게 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "바우처",
+      "보험료지원",
+      "해외인증",
+      "글로벌진출",
+      "AI로봇",
+      "규제자유특구",
+      "사업화"
+    ],
+    "region": [
+      "대구"
+    ],
+    "segment": [
+      "중소기업",
+      "창업기업",
+      "대구 AI 로봇 특구사업자"
+    ],
+    "application_method": "이메일 접수. 제출서류를 작성해 대구기계부품연구원 담당자 이메일(zem727@dmi.re.kr, kss0603@dmi.re.kr)로 제출. 접수기한은 2026년 9월 3일 18시까지",
+    "inquiry": "대구기계부품연구원 기계로봇연구본부 장은실 책임연구원 053-608-2045, 김성신 선임연구원 053-608-2072",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770171&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770172&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770172&fileSn=2",
+      "https://www.dmi.re.kr/portal/bbs/view.do?mId=0509000000&bIdx=9191&ptIdx=35&page=1&cancleUrl=%2Fportal%2Fbbs%2Flist.do%3FptIdx%3D35%26mId%3D0509000000&searchType=all&searchTxt="
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125689-20260821",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "daegu-2026-ai-robot-global-innovation-zone-additional",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-21 16:31 KST",
+    "change_summary": "기업마당 상세 페이지, 대구기계부품연구원 원문, 공고문 PDF에서 제목·등록일, 접수기간, 신청자격, 신산업 보험 22개 기업 이내·630만 원 이내, 해외인증 2개 기업 내외·1억 1,550만 원 이내, 국비·지방비·민간부담금 구성, 이메일 접수 및 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125555",
     "source_name": "기업마당",
     "source_grade": "S",
