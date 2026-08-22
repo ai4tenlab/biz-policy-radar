@@ -1,5 +1,59 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125696",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125696",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-22T12:30:00+09:00",
+    "source_published_at": "2026-08-21",
+    "source_updated_at": "2026-08-20",
+    "title": "2026년 예비오션스타 기업 모집 공고",
+    "issuer": "해양수산부",
+    "executor": "해양수산과학기술진흥원",
+    "application_start_at": "2026-08-20T00:00:00+09:00",
+    "deadline": "2026-09-11",
+    "deadline_status": "open",
+    "support_target": "우수기술력을 바탕으로 높은 성장성이 기대되고 최근 3년간 평균매출액이 100억 원 이상인 해양수산 분야 기업. 공고문 기준 연 매출액 1,000억 원 이상 달성이 기대되는 해양수산 벤처·스타트업을 예비오션스타로 발굴하는 사업이며, 창업 3년 이내 기업은 창업 이후 평균 매출액을 적용함. 2021~2025년 예비오션스타 선정기업, 부도·휴폐업, 국세·지방세 체납, 채무불이행 등 비정상 거래처, 파산·회생절차 신청, 최근 결산 기준 자본전액잠식, 국가연구개발사업 참여제한, 허위 제출, 사행산업 등 지원제외 업종은 제외될 수 있음",
+    "support_summary": "최근 3년 평균매출액 100억 원 이상인 해양수산 분야 유망기업이 예비오션스타 지정을 검토할 수 있는 공고입니다. 기업마당 상세 페이지와 해양수산부 원문, 첨부 HML 공고문에서 신청기간은 2026년 8월 20일부터 9월 11일 17시까지, 접수처는 바다봄지식정보시스템 온라인 접수라는 점이 확인됩니다. 공고문 기준 선정규모는 5개사 이내이며, 선정기업에는 예비오션스타 인증서·인증로고·현판 및 홍보, 기업은행 연계 해양수산 기술사업화자금 대출 지원, 혁신 프리미어 1000 참여 우대, 해양수산 R&D 주관기관 참여 우대가점, 민간투자기반 사업화 지원 우대가점, 전용 IR 설명회, 취업박람회 참여 우선권 등이 제공됩니다. 평가에는 조직역량·기술성·시장성 정성평가와 평균 매출액, 투자유치금액, 신용평가등급, 고용증가율 정량평가가 반영되므로 신청 전 매출·투자·신용등급·고용 증빙과 지원 제외사항을 해양수산과학기술진흥원에 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "사업화",
+      "R&D",
+      "투자유치",
+      "수출",
+      "홍보",
+      "해양수산",
+      "스케일업"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "중소기업",
+      "창업기업",
+      "해양수산 벤처·스타트업",
+      "최근 3년 평균매출액 100억 원 이상 기업"
+    ],
+    "application_method": "바다봄지식정보시스템(www.badabom.go.kr) 온라인 접수. 바다봄 로그인 후 창업투자 공고/신청 메뉴에서 기본정보 입력, 제출서류 업로드 후 2026년 9월 11일 17시까지 제출",
+    "inquiry": "해양수산과학기술진흥원 산업정책실 창업투자팀 02-3460-0376, dbtmf123@kimst.re.kr. 해양수산부 원문 담당자 박선옥 051-773-6229",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770191&fileSn=0",
+      "https://www.mof.go.kr/doc/ko/selectDoc.do?docSeq=68104&menuSeq=375&bbsSeq=9",
+      "https://www.mof.go.kr/jfile/readDownloadFile.do?fileType=MOF_ARTICLE&fileTypeSeq=68104&fileNum=1",
+      "https://badabom.go.kr/stup/pbanc/detail/view.do?pbancMngNo=S-ANN202600020"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125696-20260822",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-preliminary-ocean-star-companies",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-22 12:30 KST",
+    "change_summary": "기업마당 상세 페이지, 해양수산부 공지사항 원문, 첨부 HML 공고문에서 제목·등록일, 접수기간 2026년 8월 20일~9월 11일 17시, 바다봄 온라인 접수, 최근 3년 평균매출액 100억 원 이상 대상, 5개사 이내 선정, 홍보·금융·R&D·사업화·투자유치·인력양성 혜택, 평가항목과 제외사항, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125684",
     "source_name": "기업마당",
     "source_grade": "S",
