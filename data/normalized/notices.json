@@ -1,5 +1,57 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125695",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125695",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-22T16:32:00+09:00",
+    "source_published_at": "2026-08-21",
+    "source_updated_at": "2026-08-21",
+    "title": "[경기] 안양시 2026년 유망기업 온ㆍ오프라인 유통망 입점 지원사업 공고",
+    "issuer": "경기도",
+    "executor": "안양산업진흥원",
+    "application_start_at": "2026-09-03T00:00:00+09:00",
+    "deadline": "2026-09-04",
+    "deadline_status": "open",
+    "support_target": "안양시 관내 소비재 관련 중소기업. 기업마당 상세 페이지 기준 뷰티, 패션, 생활가전, 주방용품, 식품 등 자체 제조 브랜드를 보유한 기업이 대상이며, 세부 자격과 제외요건은 안양산업진흥원 공고문 및 신청서류에서 추가 확인이 필요함",
+    "support_summary": "안양시 소재 소비재 중소기업이 온ㆍ오프라인 유통망 입점 기회를 검토할 수 있는 판로 지원 공고입니다. 기업마당 상세 페이지와 안양산업진흥원 원문 공지에서 제목과 등록 정보가 일치하며, 신청기간은 2026년 9월 3일부터 9월 4일까지, 신청방법은 ssy@aba.or.kr 이메일 접수로 확인됩니다. 공식 공고 기준 지원 내용은 시흥프리미엄아울렛 3층 시흥꿈상회 매대 팝업스토어 운영을 통한 오프라인 유통망 입점과 경기도주식회사 지원 라이브커머스 방송 입점입니다. 지원금 현금 지급형 공고라기보다 판로ㆍ입점 지원 성격이므로, 신청 전 자체 제조 브랜드 보유 여부, 제출서류, 입점 가능 품목, 선정 후 운영 조건을 안양산업진흥원에 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "판로",
+      "내수",
+      "마케팅",
+      "유통망",
+      "라이브커머스",
+      "팝업스토어"
+    ],
+    "region": [
+      "경기",
+      "안양"
+    ],
+    "segment": [
+      "중소기업",
+      "소비재 기업",
+      "자체 제조 브랜드 보유기업",
+      "안양시 소재 기업"
+    ],
+    "application_method": "이메일 접수(ssy@aba.or.kr). 기업마당 및 안양산업진흥원 공고문 기준 2026년 9월 3일부터 9월 4일까지 신청서류와 매뉴얼에 따라 제출",
+    "inquiry": "안양산업진흥원 031-8045-6712",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770190&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770189&fileSn=1",
+      "https://www.aba.or.kr/bbs/boardView.do?id=382&bIdx=5834&page=1&menuId=855&bc=0"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125695-20260822",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "anyang-2026-promising-companies-online-offline-distribution-entry",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-22 16:32 KST",
+    "change_summary": "기업마당 상세 페이지와 안양산업진흥원 원문 공지에서 제목, 등록일 2026년 8월 21일, 신청기간 2026년 9월 3일~9월 4일, 안양시 관내 소비재 관련 중소기업 대상, 자체 제조 브랜드 보유 요건, 이메일 접수, 시흥꿈상회 팝업스토어 및 경기도주식회사 라이브커머스 입점 지원, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125696",
     "source_name": "기업마당",
     "source_grade": "S",
