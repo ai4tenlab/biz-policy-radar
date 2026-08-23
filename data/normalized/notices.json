@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125682",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125682",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-24T07:35:09+09:00",
+    "source_published_at": "2026-08-21",
+    "source_updated_at": "2026-08-20",
+    "title": "[서울] 2026년 중동상황 대응 수출위기 극복 물류지원금 지원사업 모집 공고",
+    "issuer": "서울특별시",
+    "executor": "서울경제진흥원",
+    "application_start_at": "2026-08-20T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "서울 소재 수출기업 중 중소기업기본법 제2조에 따른 중소기업으로서 본사 또는 독립된 사업장이 서울특별시에 있고 해당 사업장을 기준으로 지방세 납세의무가 있는 기업. 중동·유럽·아프리카 지역 국가를 최종 수출 목적지로 하거나 해당 국가를 경유하는 수출 건이며, 수출자가 운임을 부담하는 인코텀즈 C조건(CFR·CIF·CPT·CIP) 또는 D조건(DAP·DPU·DDP)에 한해 지원 검토 가능",
+    "support_summary": "서울 소재 중소 수출기업이 중동 상황 장기화에 따른 물류비 상승·운송 경로 변경 부담을 줄이기 위해 검토할 만한 물류지원금 공고입니다. 기업마당 상세 페이지와 서울경제진흥원 신청 페이지, 공고문 PDF에서 공고 등록일 2026년 8월 21일, 접수 시작 2026년 8월 20일, 예산 소진 시까지 상시 접수, 온라인 신청 경로가 확인됩니다. 공식 공고 기준 지원유형은 보조금 성격의 물류비 사후 정산 지원이며, 2026년 1월 1일 이후 선적하고 신청 전 물류비 지급을 완료한 수출 운송 건에 대해 인정 물류비의 90%를 기업당 최대 3,000만 원 한도에서 지원합니다. 동일 물류비 건의 중복 지원, 수출신고필증이 없는 중개무역, E·F 인코텀즈 조건, 무상 샘플 운송 등은 제외될 수 있으므로 신청 전 서울경제진흥원 공고문에서 증빙서류와 제외요건을 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "수출",
+      "물류",
+      "보조금",
+      "물류지원금",
+      "중동상황대응",
+      "수출위기극복",
+      "사후정산"
+    ],
+    "region": [
+      "서울"
+    ],
+    "segment": [
+      "중소기업",
+      "서울 소재 수출기업",
+      "중동·유럽·아프리카 수출기업",
+      "물류비 부담 기업"
+    ],
+    "application_method": "서울경제진흥원(SBA) 홈페이지 온라인 접수. 사업 신청 페이지에서 공고를 선택해 신청서와 증빙서류를 업로드",
+    "inquiry": "사업 관련 문의 SBA 글로벌마케팅팀 02-2657-5725, jypark01@sba.seoul.kr(메일 문의 권장). 물류비 및 증빙서류 문의 ubis@ubiscs.com",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770141&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770142&fileSn=0",
+      "https://www.sba.seoul.kr/Pages/BusinessApply/PostingDetail.aspx?p=0&mid=dd497bd9-4d9c-f111-b404-d4f5ef4a1e33",
+      "https://www.kosi.re.kr/front/functionDisplay?menuFrontNo=28183132588146541248027813199486438540&menuFrontURL=front/globalCenterView"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125682-20260824",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "seoul-2026-middle-east-export-crisis-logistics-subsidy",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-24 07:35 KST",
+    "change_summary": "기업마당 상세 페이지와 서울경제진흥원 신청 페이지, 공고문 PDF에서 제목·등록일, 접수 시작 2026년 8월 20일 및 예산 소진 시까지 접수, 서울 소재 중소 수출기업 대상, 중동·유럽·아프리카 목적지 또는 경유 수출 건, 인코텀즈 C·D 조건, 2026년 1월 1일 이후 선적 건, 인정 물류비 90%·기업당 최대 3,000만 원 한도, SBA 온라인 접수 및 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125688",
     "source_name": "기업마당",
     "source_grade": "S",
