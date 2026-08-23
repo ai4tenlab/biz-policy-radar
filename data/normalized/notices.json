@@ -1,5 +1,60 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125687",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125687",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-23T12:30:28+09:00",
+    "source_published_at": "2026-08-21",
+    "source_updated_at": "2026-08-20",
+    "title": "[경북] 안동시 2026년 수출기업 역량강화 지원사업 참여기업 모집 연장 공고(수출매뉴얼 지원)",
+    "issuer": "경상북도",
+    "executor": "경상북도경제진흥원",
+    "application_start_at": "2026-07-21T00:00:00+09:00",
+    "deadline": "2026-09-18",
+    "deadline_status": "open",
+    "support_target": "안동시 소재 제조 및 무역업 중소기업. 기업마당 상세 페이지 기준 중소기업기본법상 중소기업으로 공장등록증을 보유하고 신청일 현재 가동 중인 기업, 건축물대장 용도가 공장 또는 제조업소인 기업, 한국표준산업분류 대분류 제조업(C, 10~34)에 해당하는 기업, 무역업 고유번호 보유 기업이 대상이며 세부 요건은 공고문에서 확인 필요",
+    "support_summary": "안동시 소재 제조·무역 중소기업이 수출매뉴얼 제작 등 수출 역량 강화를 위해 검토할 만한 연장 모집 공고입니다. 기업마당 상세 페이지와 경상북도경제진흥원 원문에서 제목, 진행중 상태, 작성일 2026년 8월 20일, 모집기간 2026년 8월 20일부터 9월 18일까지가 확인됩니다. 공식 공고 기준 지원 내용은 수출용 홍보물 제작, 제품생산 지원, 마케팅 지원, 디자인 개발 지원이며 기업별 최대 300만 원 한도입니다. 신청은 이메일 또는 등기우편으로 하며, 신청서류를 하나의 PDF로 스캔해 제출하도록 안내되어 있습니다. 선정 여부와 실제 지원 가능 범위는 공장등록, 건축물대장 용도, 제조업 분류, 무역업 고유번호, 제출서류 충족 여부에 따라 달라질 수 있으므로 접수 전 경상북도경제진흥원 북부지소에 최신 조건을 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "수출",
+      "마케팅",
+      "보조금",
+      "디자인개발",
+      "홍보물제작",
+      "제품생산",
+      "수출매뉴얼"
+    ],
+    "region": [
+      "경북",
+      "안동"
+    ],
+    "segment": [
+      "중소기업",
+      "제조업",
+      "무역업",
+      "안동시 소재 기업",
+      "수출유망 중소기업"
+    ],
+    "application_method": "이메일 또는 우편(등기) 접수. 이메일 gepa_north@naver.com, 접수처 경상북도 안동시 북순환로 387 2층 경상북도경제진흥원. 신청서류는 하나의 PDF 파일로 스캔해 제출",
+    "inquiry": "경상북도경제진흥원 북부지소 054-900-3801, gepa_north@naver.com",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770158&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770158&fileSn=2",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770157&fileSn=1",
+      "https://www.gepa.kr/?page_id=36&stype1=type1&vid=2404"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125687-20260823",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "andong-2026-export-capacity-manual-support-extended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-23 12:30 KST",
+    "change_summary": "기업마당 상세 페이지와 경상북도경제진흥원 원문에서 제목, 기업마당 등록일 2026년 8월 21일, 원문 작성일 2026년 8월 20일, 모집기간 2026년 8월 20일~9월 18일, 안동시 소재 제조 및 무역업 중소기업 대상, 수출용 홍보물 제작·제품생산·마케팅·디자인 개발 지원, 기업별 최대 300만 원 한도, 이메일·등기우편 접수, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125692",
     "source_name": "기업마당",
     "source_grade": "S",
