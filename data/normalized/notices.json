@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125597",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125597",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-24T12:31:39+09:00",
+    "source_published_at": "2026-08-19",
+    "source_updated_at": "2026-08-18",
+    "title": "[강원] 2026년 3차 수출기업 해외 물류비 지원사업 참가기업 모집 공고",
+    "issuer": "강원특별자치도",
+    "executor": "강원특별자치도경제진흥원",
+    "application_start_at": "2026-08-18T00:00:00+09:00",
+    "deadline": "2026-08-28",
+    "deadline_status": "open",
+    "support_target": "강원특별자치도 내 본사 또는 공장을 둔 중소기업, 유통·무역회사. 공장이 도내에 있는 경우 도내 지점 등록 및 지점 사업자등록번호 수출 건이어야 하며, 유통·무역회사는 도내 제품 수출 건에 한해 검토 가능. 공고문 기준 2025년 직접수출액 500만 달러 이하이고 2026년 해외 물류비를 사용한 기업이 대상이며, 동일 내역 타 사업 물류비 지원 수혜, 국세·지방세 체납, 불량거래 규제 기업은 제외될 수 있음",
+    "support_summary": "강원 소재 중소 수출기업과 도내 제품을 수출하는 유통·무역회사가 해외 물류비 부담을 줄이기 위해 검토할 만한 3차 모집 공고입니다. 기업마당 상세 페이지와 강원 수출기업 통합 플랫폼 신청 페이지, 첨부 PDF에서 공고 등록일 2026년 8월 19일, 접수기간 2026년 8월 18일부터 8월 28일 18시까지, 온라인 신청 경로가 확인됩니다. 공식 공고 기준 지원유형은 보조금 성격의 물류비 사후 지원이며, 2026년 수출 목적 해외 물류비에 대해 소요경비의 80%(VAT 제외)를 기업당 연간 최대 500만 원 한도에서 선착순 지급합니다. 국제특송과 포워딩 운임, 중동분쟁 관련 반송·지체·대체 항로 추가 비용 및 전쟁위험할증료가 항목별 증빙 조건에 따라 검토될 수 있으므로, 신청 전 수출신고필증·운송장·B/L·AWB·인보이스·결제 증빙과 중복지원 제외 요건을 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "수출",
+      "물류",
+      "보조금",
+      "물류비",
+      "해외물류",
+      "운송비",
+      "중동분쟁",
+      "사후정산"
+    ],
+    "region": [
+      "강원"
+    ],
+    "segment": [
+      "중소기업",
+      "강원 소재 수출기업",
+      "유통·무역회사",
+      "해외 물류비 부담 기업"
+    ],
+    "application_method": "강원특별자치도 수출기업 통합 플랫폼(수출기업 서포트) 온라인 접수. 접수기간 내 사업신청 페이지에서 지원금 신청서와 증빙서류를 PDF 합본 등으로 업로드",
+    "inquiry": "강원특별자치도경제진흥원 전략사업부 033-749-3393, take1105@gwep.or.kr",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769767&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000769766&fileSn=0",
+      "https://tradesupport.gwd.go.kr/portal/application/apply2/businessView?busi_seq=784&busi_cate=B12"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125597-20260824",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gangwon-2026-export-logistics-cost-3rd",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-24 12:31 KST",
+    "change_summary": "기업마당 상세 페이지와 강원 수출기업 통합 플랫폼 신청 페이지, 첨부 PDF에서 제목·공고 등록일 2026년 8월 19일, 신청기간 2026년 8월 18일~8월 28일 18시, 도내 소재 중소기업·유통·무역회사 대상, 2025년 직접수출액 500만 달러 이하 및 2026년 해외 물류비 사용 요건, 소요경비 80%·기업당 연간 최대 500만 원 한도, 국제특송·포워딩·중동분쟁 관련 반송·지체·대체 항로 비용·전쟁위험할증료 지원 가능 항목, 온라인 접수 및 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125682",
     "source_name": "기업마당",
     "source_grade": "S",
