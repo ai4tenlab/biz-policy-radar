@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125740",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125740",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-25T07:35:30+09:00",
+    "source_published_at": "2026-08-24",
+    "source_updated_at": "2026-08-18",
+    "title": "[경남] 고성군 2026년 소상공인 소규모 경영환경 개선지원 사업 추가 모집 공고",
+    "issuer": "경상남도 고성군",
+    "executor": "고성군 경제기업과",
+    "application_start_at": "2026-08-18T00:00:00+09:00",
+    "deadline": "2026-08-28",
+    "deadline_status": "soon",
+    "support_target": "공고일 기준 6개월 이상 영업 중인 고성군 관내 소상공인. 「소상공인기본법」 제2조에 따른 소상공인이 기준이며, 2018년 최초 시행 이후 본 사업 수혜업체, 휴·폐업 또는 국세·지방세 체납 업체, 연매출 증빙 불가 업체, 위반건축물 해당 업체, 무점포 사업자, 금융·보험업 및 사행성·향락성 업종 등은 제외될 수 있음",
+    "support_summary": "고성군 관내에서 6개월 이상 영업 중인 소상공인이 점포 인테리어, 간판, 입식테이블, 화장실, 안전시스템 개선 비용을 낮추기 위해 검토할 만한 추가 모집 공고입니다. 기업마당 상세 페이지와 고성군 공고문 HWPX에서 기업마당 등록일 2026년 8월 24일, 고성군 공고일 2026년 8월 18일, 신청기간 2026년 8월 18일부터 8월 28일까지, 방문 접수처와 문의처가 확인됩니다. 공식 공고 기준 지원유형은 시설·경영환경 개선 보조금이며, 관내 소상공인 3개소 예정에 대해 공급가액의 70% 이내, 업체당 최대 200만 원까지 지원합니다. 시설개선비의 30%, 지원 한도 초과분, 부가세는 자부담이고, 선정 통지 전 사전 시행분이나 보조금 교부결정 이전 추진분은 지원되지 않을 수 있으므로 신청 전 제출서류와 제외 업종을 다시 확인하는 것이 좋습니다.",
+    "theme": [
+      "경영",
+      "보조금",
+      "소규모경영환경개선",
+      "시설개선",
+      "점포개선",
+      "인테리어",
+      "간판",
+      "안전시스템"
+    ],
+    "region": [
+      "경남",
+      "고성군"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "고성군 관내 사업자",
+      "점포 환경개선 필요 사업자"
+    ],
+    "application_method": "방문 접수. 접수처는 고성군 경제기업과이며, 사업 신청 시 지원신청서와 사업계획서, 동의서, 사업자등록증, 매출 증빙, 국세·지방세 완납증명서, 건축물대장, 건강보험 또는 4대보험 관련 서류, 견적서 등을 공고문 기준으로 준비",
+    "inquiry": "고성군 경제기업과 지역경제담당 055-670-2304",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770377&fileSn=0",
+      "http://a.to/266nQc5"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125740-20260825",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "goseong-2026-small-business-environment-improvement-additional",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-25 07:35 KST",
+    "change_summary": "기업마당 상세 페이지와 고성군 공고문 HWPX에서 제목·등록일 2026년 8월 24일·공고일 2026년 8월 18일, 신청기간 2026년 8월 18일~8월 28일, 공고일 기준 6개월 이상 영업 중인 관내 소상공인 대상, 관내 소상공인 3개소 예정, 공급가액의 70% 이내 업체당 최대 200만 원 지원, 시설개선비 30%·한도 초과분·부가세 자부담, 방문 접수 및 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125737",
     "source_name": "기업마당",
     "source_grade": "S",
