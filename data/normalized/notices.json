@@ -1,5 +1,57 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125737",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125737",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-24T16:32:58+09:00",
+    "source_published_at": "2026-08-24",
+    "source_updated_at": "2026-08-19",
+    "title": "[제주] 소상공인 저금리 대환대출 특별보증 한시적 이차보전금 지원 공고",
+    "issuer": "제주특별자치도",
+    "executor": "제주신용보증재단",
+    "application_start_at": "2026-08-19T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "고금리 7% 기업대출 중 신용대출을 이용 중인 중·저신용 제주 도내 소상공인. 공식 공고문 기준 법인은 제외되며, 특별보증과 대환대출 실행은 제주신용보증재단·협약금융기관의 신용조사, 보증심사, 금융기관 운영 기준에 따라 검토됨",
+    "support_summary": "제주 도내 중·저신용 소상공인이 기존 고금리 기업 신용대출을 저금리 대환대출 특별보증으로 갈아탈 때 이자 부담을 낮추기 위해 검토할 만한 공고입니다. 기업마당 상세 페이지와 제주특별자치도 공고문 HWPX에서 공고 등록일 2026년 8월 24일, 제주특별자치도 공고일 2026년 8월 19일, 신청기간 2026년 8월 19일부터 특별보증 재원 소진 시까지, 제주신용보증재단 비대면 신청 경로가 확인됩니다. 공식 공고 기준 지원유형은 특별보증 연계 융자에 대한 이차보전이며, 융자 한도는 업체당 최대 1천만 원, 조건은 1년 거치 4년 분할상환입니다. 총 보증규모는 100억 원이고, 협약금리 4.75% 이하(분할기간 5.0% 이하) 기준 수요자 부담금리는 2.25% 이하(분할기간 2.5% 이하), 이차보전율은 2.5%로 제시되어 있습니다. 실제 보증 승인, 대출 실행, 금리 적용은 제주신용보증재단과 협약금융기관 심사 기준을 다시 확인해야 합니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "보증",
+      "이차보전",
+      "대환대출",
+      "저금리",
+      "경영안정자금"
+    ],
+    "region": [
+      "제주"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "중·저신용 사업자",
+      "고금리 기업 신용대출 이용자"
+    ],
+    "application_method": "제주신용보증재단 앱(보증드림)을 통한 비대면 신청. 기업마당 신청 링크는 제주신용보증재단 온라인 신청 페이지로 연결되며, 보증서 발급 후 도내 새마을금고에서 대환대출 실행 절차가 진행됨",
+    "inquiry": "제주특별자치도 소상공인과 064-710-3905, 064-710-3906. 제주신용보증재단 본점 064-750-4800, 서귀포지점 064-733-8133, 동제주지점 064-758-8020",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770373&fileSn=0",
+      "https://untact.koreg.or.kr/web/index.do",
+      "https://www.jeju.go.kr/news/news/law/jeju2.htm#A_67483"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125737-20260824",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "jeju-2026-low-interest-refinance-special-guarantee-interest-subsidy",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-24 16:32 KST",
+    "change_summary": "기업마당 상세 페이지와 제주특별자치도 공고문 HWPX에서 제목·공고일 2026년 8월 19일·기업마당 등록일 2026년 8월 24일, 신청기간 2026년 8월 19일부터 특별보증 재원 소진 시까지, 고금리 7% 기업 신용대출 이용 중·저신용 도내 소상공인 대상 및 법인 제외, 업체당 최대 1천만 원·1년 거치 4년 분할상환, 총 보증규모 100억 원, 협약금리·수요자 부담금리·2.5% 이차보전율, 제주신용보증재단 앱 비대면 신청 및 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125597",
     "source_name": "기업마당",
     "source_grade": "S",
