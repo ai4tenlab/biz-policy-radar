@@ -1,5 +1,62 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125880",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125880",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-27T16:31:38+09:00",
+    "source_published_at": "2026-08-27",
+    "source_updated_at": "2026-08-25",
+    "date": "2026-08-27",
+    "title": "2026년 2차 스마트상점 기술보급사업 참여 소상공인 모집 공고(구입형ㆍ렌탈형ㆍS/W형)",
+    "issuer": "중소벤처기업부",
+    "executor": "소상공인시장진흥공단",
+    "application_start_at": "2026-08-26T10:00:00+09:00",
+    "deadline": "2026-09-30",
+    "deadline_status": "open",
+    "support_target": "「소상공인기본법」 제2조에 따른 소상공인으로 신청일 현재 정상 영업 중인 점포가 검토 대상입니다. 중소기업현황정보시스템에서 소상공인확인서 발급이 가능한 점포여야 하며, 지원제외 업종, 비영리사업자, 예비창업·휴폐업, 국세·지방세 체납, 이미 스마트상점 기술보급사업 지원을 받은 경우 중 추가지원 대상이 아닌 경우, 대표자 본인이 아닌 공급기업·대행업체를 통한 대리신청 등은 제외될 수 있습니다.",
+    "support_summary": "정상 영업 중인 소상공인 점포가 스마트오더, 키오스크, 사이니지, 로봇, 배리어프리 무인정보단말기, 소프트웨어 구독 등 매장 운영 효율화 기술을 도입할 때 검토할 만한 스마트상점 기술보급 보조 성격의 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 8월 27일, 신청기간 2026년 8월 26일부터 9월 30일까지, 온라인 신청 사이트와 문의처가 확인되며, 소상공인시장진흥공단 원문에서는 공고일 2026년 8월 26일과 등록일 2026년 8월 25일이 확인됩니다. 공식 공고 기준 구입형은 보편·일반·배리어프리 스마트기술 구입비, 렌탈형은 배리어프리 무인정보단말기와 로봇 렌탈비, S/W형은 소프트웨어 구독료를 지원합니다. 지원한도는 유형별로 달라 보편 구입형 500만 원, 일반 구입형 700만 원, 렌탈형 연 350만 원(최대 2년), S/W형 상점당 연 30만 원(최대 2년) 등이 제시되어 있습니다. 국비 지원 비율은 일반 기준 50~100%, 우대 대상은 일부 유형에서 60~80%로 다르므로, 실제 부담액은 신청 유형·우대대상 해당 여부·선정평가·공급기술 조건을 함께 확인하는 것이 좋습니다.",
+    "theme": [
+      "디지털전환",
+      "보조금",
+      "스마트상점",
+      "소상공인",
+      "스마트기술",
+      "배리어프리",
+      "로봇",
+      "S/W"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "정상 영업 중인 점포",
+      "소상공인확인서 발급 가능 점포"
+    ],
+    "application_method": "스마트상점 홈페이지(www.sbiz.or.kr/smst/index.do) 온라인 접수. 대표자 명의 회원가입 후 사업신청을 진행하며, 대리신청은 불가",
+    "inquiry": "스마트상점전문기관(개별소상공인) 1600-6185 / 스마트상점팀(S/W가맹본부) 042-363-7806, 042-363-7807",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770933&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770934&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770934&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770934&fileSn=2",
+      "https://www.sbiz.or.kr/smst/index.do",
+      "https://www.semas.or.kr/web/board/webBoardView.kmdc?bCd=1&schCat=&rlIdx=&page=1&pNm=BOA0101&eventMode=&b_idx=56310&schCon=0&schStr="
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125880-20260827",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-smart-store-technology-supply-2nd",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-27 16:31 KST",
+    "change_summary": "기업마당 상세 페이지와 소상공인시장진흥공단 원문에서 제목·기업마당 등록일 2026년 8월 27일·소진공 등록일 2026년 8월 25일·공고일 2026년 8월 26일, 신청기간 2026년 8월 26일 10시부터 9월 30일 17시까지, 소상공인기본법상 정상 영업 중인 소상공인 점포 대상, 구입형·렌탈형·S/W형 지원, 유형별 지원한도와 국비 지원비율, 온라인 접수 및 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125856",
     "source_name": "기업마당",
     "source_grade": "S",
