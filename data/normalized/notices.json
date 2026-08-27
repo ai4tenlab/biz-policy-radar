@@ -1,5 +1,58 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125890",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125890",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-28T07:35:00+09:00",
+    "source_published_at": "2026-08-27",
+    "source_updated_at": "2026-08-26",
+    "date": "2026-08-27",
+    "title": "[울산] 2026년 소상공인 온라인 판로ㆍ마케팅 지원 사업 공고",
+    "issuer": "울산광역시",
+    "executor": "울산광역시소상공인행복드림센터",
+    "application_start_at": "2026-09-11T09:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "울산광역시 내 사업장을 두고 사업을 영위하는 「소상공인기본법」 제2조 및 같은 법 시행령 제3조에 따른 소상공인 사업자가 검토 대상입니다. 공고문 기준 업종별 평균매출액 요건과 상시근로자 수 요건을 충족해야 하며, 2024~2026년 울산시 또는 남구 온라인 플랫폼 지원사업 수혜·진행 사업자, 휴·폐업 사업자, 대기업 운영 프랜차이즈 직영점 또는 가맹점, 사치향락업종, 지방세 체납, 본인 명의 통장 입출금 거래 불가 사업자 등은 제외될 수 있습니다.",
+    "support_summary": "울산광역시 소재 소상공인이 온라인 플랫폼 홍보·광고, 마케팅 운영, 콘텐츠 제작 비용을 검토할 때 확인할 만한 보조 성격의 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 8월 27일, 신청기간 예산 소진 시까지, 온라인 접수와 문의처가 확인되며, 울산광역시 소상공인 행복드림센터 원문에서는 작성일 2026년 8월 26일 09시와 공고 제2026-8호가 확인됩니다. 공식 공고문 기준 접수는 2026년 9월 11일 09시부터 예산 소진 시까지 선착순 온라인 접수이며, 지원규모는 200개 업체 내외입니다. 지원금액은 공급가액의 90% 범위에서 최대 80만 원 이내이고, 부동산 중개업은 전체 지원규모의 20%(40개 업체)로 제한됩니다. 온라인 플랫폼 배달비·중개수수료 등 각종 수수료와 이용료는 지원 제외로 명시되어 있으므로, 실제 인정 비용은 공고문·제출서류·센터 심사 기준을 함께 확인하는 것이 좋습니다.",
+    "theme": [
+      "판로",
+      "보조금",
+      "소상공인",
+      "온라인마케팅",
+      "홍보",
+      "광고비",
+      "콘텐츠제작"
+    ],
+    "region": [
+      "울산"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "울산 소재 사업장",
+      "온라인 판로 확대 희망 사업자"
+    ],
+    "application_method": "울산광역시 소상공인 행복드림센터(www.uhdc.kr) 홈페이지 온라인 접수. 공고문 기준 오프라인 접수는 불가하며, 접수일에 본인인증 후 기본사항·체크리스트·지원사업 신청서·동의서를 등록",
+    "inquiry": "울산광역시 소상공인 행복드림센터 052-283-8390 / 카카오톡 상담: 소상공인행복드림센터 검색",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770945&fileSn=0",
+      "https://www.uhdc.kr:449/04_notice/?mcode=0404010000&mode=2&no=1105&page=1",
+      "https://uhdc.kr:449/03_online/?mcode=0403020000&mode=2&no=247&dv=4"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125890-20260827",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "ulsan-2026-small-business-online-marketing-support",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-28 07:35 KST",
+    "change_summary": "기업마당 상세 페이지와 울산광역시 소상공인 행복드림센터 원문에서 제목·기업마당 등록일 2026년 8월 27일·센터 작성일 2026년 8월 26일 09시·공고 제2026-8호, 울산광역시 소재 소상공인 대상, 접수기간 2026년 9월 11일 09시부터 예산 소진 시까지, 온라인 접수, 지원규모 200개 업체 내외, 업체당 최대 80만 원 및 공급가액 90% 범위, 문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125880",
     "source_name": "기업마당",
     "source_grade": "S",
