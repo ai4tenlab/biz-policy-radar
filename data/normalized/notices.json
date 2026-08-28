@@ -1,5 +1,59 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125863",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125863",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-28T12:32:00+09:00",
+    "source_published_at": "2026-08-27",
+    "source_updated_at": "2026-08-21",
+    "date": "2026-08-27",
+    "title": "[강원] 2026년 4차 중소기업육성자금 지원 변경계획 공고",
+    "issuer": "강원특별자치도",
+    "executor": "강원특별자치도경제진흥원",
+    "application_start_at": "2026-01-02T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "강원특별자치도 내 본사 또는 공장을 둔 중소기업이 검토 대상입니다. 공고문 기준 은행 여신규정에 따른 담보능력을 보유해야 하며, 국세·지방세 체납, 휴·폐업, 전액 자본잠식, 관계 법령상 중소기업에 해당하지 않는 경우, 소비·투기 조장업 등 제외 업종, 허위·부정 신청 또는 용도 외 사용 이력 등은 지원 제외될 수 있습니다.",
+    "support_summary": "강원특별자치도 소재 중소기업이 운전자금·시설자금 성격의 중소기업육성자금을 검토할 때 확인할 만한 융자 및 이차보전 성격의 변경 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 8월 27일, 신청기간 예산 소진 시까지, 온라인 또는 시군 방문 접수, 문의처가 확인되며, 강원특별자치도청 원문에서는 제목과 등록일 2026년 8월 21일이 확인됩니다. 공식 공고문 기준 지원기간은 2026년 1월 2일부터 자금 소진 시까지이고, 지원 대상은 도내 본사 또는 공장 소재 중소기업입니다. 최근 5년간 육성자금 총 융자한도는 대출잔액 기준 50억 원이며, 경영안정자금은 10억 원 한도와 최근 2개 연도 평균 매출액의 90% 범위, 창업및경쟁력강화자금은 18억 원 한도와 소요액 공급가의 75% 범위, 특수목적자금은 운전·시설 자금 8억 원 한도가 제시되어 있습니다. 이번 변경에는 경영안정자금 융자취급기관에 한국수출입은행을 추가하는 내용이 포함되므로, 실제 신청 가능 여부와 금리·상환조건은 융자관리시스템, 협약 금융기관, 시군 담당 부서에서 함께 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "이차보전",
+      "운전자금",
+      "시설자금",
+      "경영안정자금",
+      "중소기업육성자금"
+    ],
+    "region": [
+      "강원"
+    ],
+    "segment": [
+      "중소기업",
+      "강원 소재 기업",
+      "본사 또는 공장 소재 기업",
+      "담보능력 보유 기업"
+    ],
+    "application_method": "온라인 융자관리시스템(기업용 hext.gwep.or.kr) 또는 각 시군 중소기업육성자금 관련 부서 방문 접수. 세부 서류와 접수 가능 여부는 공고문 및 시군 담당 부서 확인 필요",
+    "inquiry": "강원특별자치도 기업지원과 033-249-2757 / 강원특별자치도경제진흥원 033-749-3398 / 각 시군 중소기업육성자금 관련 부서",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770885&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770886&fileSn=1",
+      "https://state.gwd.go.kr/portal/bulletin/notification?pageIndex=1&recordCountPerPage=15&mode=&firstYN=N&articleSeq=271692&searchFromDate=2021-08-27&searchToDate=2026-08-27&searchCondition=TITLE&searchKeyword=%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85",
+      "https://hext.gwep.or.kr/hext/main/index.html"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125863-20260827-gangwon-20260821",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gangwon-2026-sme-development-fund-4th-amended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-28 12:32 KST",
+    "change_summary": "기업마당 상세 페이지와 강원특별자치도청 원문에서 제목·기업마당 등록일 2026년 8월 27일·도청 등록일 2026년 8월 21일·신청기간 예산 소진 시까지·도내 본사 또는 공장 소재 중소기업 대상·온라인 또는 방문 접수·경영안정자금/창업및경쟁력강화자금/특수목적자금 지원·최근 5년 총 융자한도 50억 원 및 자금별 한도 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125890",
     "source_name": "기업마당",
     "source_grade": "S",
