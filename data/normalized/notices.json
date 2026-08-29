@@ -1,5 +1,57 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125736",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125736",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-30T07:35:00+09:00",
+    "source_published_at": "2026-08-24",
+    "source_updated_at": "2026-08-18",
+    "date": "2026-08-24",
+    "title": "[경남] 함안군 2026년 하반기 농업발전기금 융자시행계획 공고",
+    "issuer": "경상남도",
+    "executor": "함안군(기초자치단체)",
+    "application_start_at": "2026-08-18T00:00:00+09:00",
+    "deadline": "2026-09-11",
+    "deadline_status": "open",
+    "support_target": "함안군 관내 주소를 둔 농어업인과 함안군에 주된 사무소를 두고 있는 농어업관련 법인·생산자단체가 검토 대상입니다. 기업마당 공고는 함안군 소재 농어업인, 농어업관련 법인, 생산자단체, 공동사업장을 대상으로 농업발전기금 융자 시행계획을 공고한다고 안내합니다.",
+    "support_summary": "함안군 농어업인·농어업관련 법인·생산자단체가 운영자금 또는 시설자금 조달을 검토할 때 확인할 만한 융자 성격의 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 8월 24일, 신청기간 2026년 8월 18일부터 9월 11일까지, 방문 접수, 접수처가 신청인 주소지 읍·면 사무소임을 확인했습니다. 지원 내용은 운영자금과 시설자금이며, 대출금리는 고정금리 구조에서 최대 5% 지원으로 공지되어 있습니다. 실제 융자 가능 여부와 금액은 함안군 농업발전기금 운용 기준, 신청자의 자격·담보·심사 결과에 따라 달라질 수 있으므로 신청 전 주소지 읍·면 사무소 또는 함안군농업기술센터 농정담당에 대상·자금용도·제출서류를 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "운영자금",
+      "시설자금",
+      "농업발전기금",
+      "정책자금"
+    ],
+    "region": [
+      "경남",
+      "함안군"
+    ],
+    "segment": [
+      "농어업인",
+      "농어업관련 법인",
+      "생산자단체",
+      "공동사업장"
+    ],
+    "application_method": "방문 접수. 기업마당 상세 페이지 기준 접수처는 신청인의 주소지 읍·면 사무소입니다.",
+    "inquiry": "함안군농업기술센터 농정담당 055-580-4402",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000770371&fileSn=0",
+      "http://a.to/26DXFPo"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125736-20260824-haman-agriculture-fund-loan-20260818-20260911-fixed-rate-max5",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "haman-2026-h2-agriculture-development-fund-loan",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-30 07:35 KST",
+    "change_summary": "기업마당 상세 페이지에서 제목·등록일 2026년 8월 24일·신청기간 2026년 8월 18일~9월 11일·대상(함안군 관내 농어업인 및 주된 사무소가 있는 농어업관련 법인·생산자단체)·지원내용(운영자금, 시설자금)·대출금리 고정금리 최대 5% 지원·방문 접수처·문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125914",
     "source_name": "기업마당",
     "source_grade": "S",
