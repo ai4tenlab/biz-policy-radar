@@ -165,6 +165,57 @@
     "change_summary": "기업마당 상세 페이지와 대구광역시 동구청 원문에서 제목·기업마당 등록일 2026년 8월 28일·동구청 등록일 2026년 8월 25일·신청기간 2026년 8월 25일~9월 9일·만 19~39세 동구 청년 창업자 대상·사무실 임차료 50% 및 월 최대 50만 원, 최대 10개월 지원·방문/우편/이메일 접수·문의처 확인"
   },
   {
+    "source_id": "bizinfo-PBLN_000000000125937",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125937",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-29T16:31:41+09:00",
+    "source_published_at": "2026-08-28",
+    "date": "2026-08-28",
+    "title": "[부산] 국제수산교류협력지원사업(해외바이어초청지원) 참가업체 모집 공고",
+    "issuer": "부산광역시",
+    "executor": "한국수산무역협회",
+    "application_start_at": "2026-08-27T00:00:00+09:00",
+    "deadline": "2026-09-06",
+    "deadline_status": "open",
+    "support_target": "BISFE에 참가하는 부산 소재 수산물 수출기업이 검토 대상입니다. 공고문상 해외바이어 초청 지원을 희망하는 관심 업체는 신청서 제출 후 담당자 통화가 필요하다고 안내되어 있습니다.",
+    "support_summary": "부산 소재 수산물 수출기업이 BISFE 기간 해외바이어 초청 비용 부담을 낮추는 방안을 검토할 때 확인할 만한 보조금 성격의 수출 지원 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 8월 28일, 신청기간 2026년 8월 27일부터 9월 6일까지, 이메일 접수처와 문의처가 확인됩니다. 공식 상세 기준 지원 대상은 BISFE에 참가하는 부산 소재 수산물 수출기업이며, 지원 내용은 해외바이어 1인 항공료와 BISFE 기간 3박 숙박 등입니다. 신청은 kfta.bs@gmail.com 이메일 접수 후 담당자 통화가 필수로 안내되어 있으므로, 초청 바이어 범위, 항공료 인정 기준, 숙박 지원 조건, 제출서류는 첨부 모집 공고와 한국수산무역협회 부산지부에 추가 확인하는 것이 좋습니다.",
+    "theme": [
+      "수출",
+      "보조금",
+      "판로",
+      "해외바이어",
+      "수산물",
+      "전시회"
+    ],
+    "region": [
+      "부산"
+    ],
+    "segment": [
+      "부산 소재 수산물 수출기업",
+      "BISFE 참가기업",
+      "중소기업",
+      "수출기업"
+    ],
+    "application_method": "이메일 접수(kfta.bs@gmail.com). 기업마당 상세 페이지 기준 신청서 제출 후 담당자 통화(051-231-8806)가 필수로 안내되어 있습니다.",
+    "inquiry": "한국수산무역협회 부산지부 051-231-8806, kfta.bs@gmail.com",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771147&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771146&fileSn=0",
+      "http://www.kfta.net/Community/Notice/index.asp?no=12&mode=view&IDX=4035&p=1"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125937-20260828-busan-fisheries-buyer-1person-3nights",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "busan-2026-fisheries-overseas-buyer-invitation-support",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-29 16:31 KST",
+    "change_summary": "기업마당 상세 페이지에서 제목·등록일 2026년 8월 28일·신청기간 2026년 8월 27일~9월 6일·소관 부산광역시·수행 한국수산무역협회·대상 BISFE 참가 부산 소재 수산물수출기업·지원 내용 해외바이어 1인 항공료 및 BISFE 기간 3박 숙박 등·이메일 접수 및 담당자 통화 필수·문의처 확인. 한국수산무역협회 원문 링크는 브라우저/urllib 접근이 불안정하여 기업마당 공식 상세와 첨부파일 링크를 기준으로 공개 요약함"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125863",
     "source_name": "기업마당",
     "source_grade": "S",
