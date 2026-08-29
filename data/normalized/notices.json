@@ -1,5 +1,61 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125914",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125914",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-29T12:32:00+09:00",
+    "source_published_at": "2026-08-28",
+    "source_updated_at": "2026-08-27",
+    "date": "2026-08-28",
+    "title": "2026년 6차 예술산업보증 9월 공고",
+    "issuer": "문화체육관광부",
+    "executor": "예술경영지원센터",
+    "application_start_at": "2026-09-01T00:00:00+09:00",
+    "deadline": "2026-09-10",
+    "deadline_status": "upcoming",
+    "support_target": "공고일 기준 사업자등록증을 보유한 예술산업 분야 예술기업 및 예술 프로젝트가 검토 대상입니다. 공연예술, 시각예술, 문학, 그 외 예술 일반 등 예술상품의 기획·제작·유통을 업으로 하는 개인·법인 사업자 등이 대상이며, 개인·프리랜서처럼 사업자등록증이 없는 경우는 지원 불가로 공지되어 있습니다.",
+    "support_summary": "예술산업 분야 기업이 운전자금이나 예술 프로젝트 기획·제작 자금 조달을 검토할 때 확인할 만한 보증 성격의 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 8월 28일, 신청기간 2026년 9월 1일부터 9월 10일까지, 국가문화예술지원시스템 온라인 접수, 문의처가 확인됩니다. 문화체육관광부 원문에서는 게시일 2026년 8월 27일, 담당부서 예술경영지원센터, 본문 공모요강 파일이 확인됩니다. 공모요강 기준 보증규모는 237.5억 원, 기업당 최대 통합 한도는 10억 원 이내이며, 예술기업 보증과 예술 프로젝트 보증 모두 보증비율 95%~100%, 보증료율 0.3%p~0.4%p 감면 구조로 안내되어 있습니다. 추천심사를 거쳐도 기술보증기금 보증심사 결과에 따라 보증 취급이 불가할 수 있고, 보증심사 과정에서 기술평가료와 보증료가 발생할 수 있으므로 자금 용도, 기존 보증금액, 제외 업종, 2억 원 초과 프로젝트의 제작비 자금조달 요건을 공고문에서 추가 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "보증",
+      "운전자금",
+      "예술산업",
+      "프로젝트자금",
+      "정책자금"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "예술산업 분야 기업",
+      "예술 프로젝트 기획·제작사",
+      "사업자등록증 보유 개인사업자",
+      "사업자등록증 보유 법인사업자"
+    ],
+    "application_method": "국가문화예술지원시스템(NCAS, www.ncas.or.kr) 온라인 접수. 공모요강 기준 2026년 9월 접수기간은 9월 1일(화)부터 9월 10일(목) 오후 4시까지입니다.",
+    "inquiry": "예술경영지원센터 예술경제본부 금융지원팀 02-708-2267, 02-708-2268, artsfinance@gokams.or.kr / NCAS 고객만족센터 1577-8751 / 기술보증기금 문화콘텐츠금융센터(서울) 02-3297-8500 및 센터별 문의처 공고문 참조",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771089&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771090&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771090&fileSn=2",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771090&fileSn=3",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771090&fileSn=4",
+      "https://www.mcst.go.kr/site/s_notice/notice/noticeView.jsp?pSeq=19462&pMenuCD=0301000000",
+      "https://www.ncas.or.kr/"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125914-20260828-mcst-20260827-guarantee-2375-10억",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-art-industry-guarantee-september",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-29 12:32 KST",
+    "change_summary": "기업마당 상세 페이지와 문화체육관광부 원문 및 공모요강 PDF에서 제목·기업마당 등록일 2026년 8월 28일·문체부 게시일 2026년 8월 27일·신청기간 2026년 9월 1일~9월 10일 오후 4시·NCAS 온라인 접수·보증규모 237.5억 원·기업당 최대 통합 한도 10억 원 이내·보증비율 95%~100%·보증료율 0.3%p~0.4%p 감면·지원대상·문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125933",
     "source_name": "기업마당",
     "source_grade": "S",
