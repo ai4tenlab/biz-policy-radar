@@ -1,5 +1,60 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000124909",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124909",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-30T12:30:00+09:00",
+    "source_published_at": "2026-07-30",
+    "source_updated_at": "2026-07-29",
+    "date": "2026-07-30",
+    "title": "2026년 중소벤처기업부 소상공인 정책자금 융자사업 4차 변경 공고",
+    "issuer": "중소벤처기업부",
+    "executor": "소상공인시장진흥공단",
+    "application_start_at": "2026-01-05T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "「소상공인기본법」 제2조 및 같은 법 시행령 제3조의 소상공인이 검토 대상입니다. 다만 세부 자금별 대상 요건이 다르고, 주된 업종이 융자제외 업종에 해당하거나 세금 체납·휴폐업·신용정보 등록 등 제한 사유가 있으면 제외될 수 있으므로 공고문과 신청 안내자료 기준으로 확인해야 합니다.",
+    "support_summary": "소상공인이 운전자금, 경영안정자금, 성장기반자금, 대환대출 등 정책자금 융자를 검토할 때 우선 확인할 만한 전국 단위 공식 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 7월 30일, 신청기간 예산 소진시까지, 방문·온라인 접수, 수행기관과 문의처를 확인했습니다. 소상공인시장진흥공단 원문에서는 등록일 2026년 7월 29일 및 4차 변경사항이 확인되며, 첨부 공고문 기준 2026년 운용 규모는 일반경영안정자금 1조 2,200억 원, 특별경영안정자금 1조 7,200억 원, 성장기반자금 7,420억 원 등 총 3조 6,820억 원입니다. 공통 융자한도는 소진공 정책자금 대출잔액과 신규 예정액을 합산해 기업당 운전자금 5억 원 이내, 시설자금 포함 시 10억 원 이내로 운용되며, 일반경영안정자금은 연간 7천만 원, 대환대출은 5천만 원 등 세부 자금별 한도·금리·대출기간이 다릅니다. 실제 융자 가능 여부와 금액은 소진공 또는 금융기관·보증기관 심사, 예산 잔여 여부, 기존 대출잔액, 업종·신용·자금용도에 따라 달라질 수 있으므로 신청 전 소상공인정책자금 누리집과 콜센터에서 해당 자금의 접수상태와 제출서류를 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "운영자금",
+      "경영안정자금",
+      "대환대출",
+      "성장기반자금",
+      "정책자금"
+    ],
+    "region": [
+      "전국"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "법인사업자",
+      "소공인",
+      "중·저신용 소상공인",
+      "청년고용 소상공인"
+    ],
+    "application_method": "온라인 접수는 소상공인정책자금 누리집(https://ols.semas.or.kr), 오프라인 접수는 소상공인시장진흥공단 지역센터 방문입니다. 기업마당 상세 페이지 기준 신청기간은 예산 소진시까지이며, 공고문 기준 대리대출은 2026년 1월 5일, 직접대출은 2026년 1월 12일부터 접수 개시로 안내되어 있습니다.",
+    "inquiry": "중소기업통합콜센터 1357 / 소상공인통합콜센터 1533-0100 / 신용보증기금 1588-6565 / 기술보증기금 1544-1120 / 지역신용보증재단 1588-7365 / 소상공인시장진흥공단 지역센터 문의처 공고문 참조",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000766857&fileSn=1",
+      "https://www.semas.or.kr/web/board/webBoardView.kmdc?bCd=1&b_idx=55796&pNm=BOA0101",
+      "https://ols.semas.or.kr/ols/man/SMAN010M/page.do"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000124909-20260730-semas-20260729-small-business-policy-fund-loan-4th-36820",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-mss-small-business-policy-fund-loan-4th-amended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-30 12:30 KST",
+    "change_summary": "기업마당 상세 페이지와 소상공인시장진흥공단 원문 및 첨부 공고문에서 제목·기업마당 등록일 2026년 7월 30일·소진공 등록일 2026년 7월 29일·신청기간 예산 소진시까지·온라인 및 지역센터 방문 접수·융자대상 소상공인·총 운용 규모 3조 6,820억 원·공통 융자한도 운전자금 5억 원 이내 및 시설자금 포함 10억 원 이내·세부자금별 지원내용·문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125736",
     "source_name": "기업마당",
     "source_grade": "S",
