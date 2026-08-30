@@ -1,5 +1,60 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000119892",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119892",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-30T16:30:00+09:00",
+    "source_published_at": "2026-03-24",
+    "source_updated_at": "2026-03-16",
+    "date": "2026-03-24",
+    "title": "[대구] 2026년 중소기업경영안정자금 지원계획 변경 공고(이자지원)",
+    "issuer": "대구광역시",
+    "executor": "대구신용보증재단",
+    "application_start_at": "2026-01-16T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "대구 내 운영 중인 사업장(사업자등록증명원 소재지)을 둔 중소기업, 소상공인, 중견기업이 검토 대상입니다. 기업마당 상세 페이지와 첨부 공고문 기준 지원 제외 업종, 국세·지방세 체납, 휴·폐업, 매출액 없음, 금융기관 여신거래 불가, 최근 정책자금 지원 실적 등 제한 사유가 있으므로 신청 전 자금별 세부요건을 확인해야 합니다.",
+    "support_summary": "대구 소재 중소기업·소상공인·중견기업이 운전자금 대출의 이자 부담 완화를 검토할 때 확인할 만한 이차보전 성격의 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 3월 24일, 신청기간 예산 소진시까지, 수행기관 대구신용보증재단, 방문 접수와 문의처를 확인했습니다. 첨부 공고문에서는 2026년 사업기간이 2026년 1월부터 자금 소진 시까지이고, 융자규모는 총 1조 원(상반기 8,000억 원, 하반기 2,000억 원)으로 안내됩니다. 지원사항은 대구시가 1년간 이차보전을 지원하는 구조이며, 은행 대출금리는 기업 신용도 등을 고려해 취급은행이 정하고 보증서 담보 85% 이상인 경우 이자지원 기간 1년간 상한금리 5.5% 이하가 적용됩니다. 소상공인 지원자금은 최근 1년 연매출액 5억 원 이하 소상공인을 대상으로 융자추천한도 1억 원 이내로 안내되어 있습니다. 실제 추천·대출 가능 여부와 금액은 대구신용보증재단 또는 보증기관·은행 심사, 자금별 한도, 예산 잔여 여부, 업종·매출·담보 조건에 따라 달라질 수 있으므로 신청 전 관할 접수처에 대상 자금과 제출서류를 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "이차보전",
+      "융자",
+      "운전자금",
+      "경영안정자금",
+      "소상공인 지원자금",
+      "정책자금"
+    ],
+    "region": [
+      "대구"
+    ],
+    "segment": [
+      "중소기업",
+      "소상공인",
+      "개인사업자",
+      "법인사업자",
+      "중견기업",
+      "창업기업",
+      "수출기업"
+    ],
+    "application_method": "자금별 접수처 방문 접수입니다. 공고문 기준 지역전략산업육성 자금과 유망창업기업 자금은 신용보증기금 영업점, 기술형창업기업 자금은 기술보증기금 영업점, 일반창업·성장기업·수출기업·중견기업·소상공인·긴급경영안정·전환·대구형 특화·혁신기업·대구형 전통시장·골목상권 활력 자금은 대구신용보증재단 기업성장지원센터 및 관할 영업점에서 신청하도록 안내되어 있습니다.",
+    "inquiry": "대구시 경제정책관 053-803-3401 / 대구신용보증재단 기업성장지원센터 053-564-2900",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000748204&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000748205&fileSn=1"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000119892-20260324-daegu-sme-management-stability-fund-interest-support-1trillion",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "daegu-2026-sme-management-stability-fund-interest-support-amended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-30 16:30 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 공고문에서 제목·등록일 2026년 3월 24일·공고문 공고일 2026년 3월 16일·신청기간 예산 소진시까지·대구 소재 중소기업·소상공인·중견기업 대상·방문 접수·총 융자규모 1조 원·1년간 이차보전·소상공인 지원자금 융자추천한도 1억 원 이내·문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000124909",
     "source_name": "기업마당",
     "source_grade": "S",
