@@ -1,5 +1,56 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000125990",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125990",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-08-31T16:31:59+09:00",
+    "source_published_at": "2026-08-31",
+    "source_updated_at": "2026-08-26",
+    "date": "2026-08-31",
+    "title": "[전남광주] 장성군 2026년 하반기 소상공인 지원사업 공고",
+    "issuer": "장성군",
+    "executor": "장성군청 인구경제실",
+    "application_start_at": "2026-08-31T00:00:00+09:00",
+    "deadline": "2026-09-04",
+    "deadline_status": "open",
+    "support_target": "사업 공고일 기준 장성군에 사업장과 주소를 두고 사업을 영위하는 「소상공인기본법」 제2조상 소상공인이 검토 대상입니다. 점포경영개선은 공고일 기준 장성군에서 3년 이상 해당 사업을 운영한 소상공인을 대상으로 하며, 대출이자 차액지원과 신용보증 수수료 지원은 2026년도 신청자 중 심의 후 대상자로 확정된 자 등 세부사업별 요건이 다릅니다. 유흥·사행성 업종, 일부 전문직종, 금융·보험 관련 업종 등 정책자금 융자 제외업종, 휴·폐업, 국세·지방세 체납, 중복·유사 지원, 건물주 동의 미확보 등 제외 사유가 적용될 수 있습니다.",
+    "support_summary": "장성군 소재 소상공인이 점포 시설개선, 신규 협약대출 이자 부담 완화, 신용보증 수수료 보전을 함께 검토할 수 있는 하반기 소상공인 지원사업 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 8월 31일, 신청기간 2026년 8월 26일~9월 4일 안내, 방문 접수처와 문의처를 확인했고, 첨부 공고문에서 장성군 공고 제2026-895호, 공고일 2026년 8월 26일, 실제 신청기간 2026년 8월 31일~9월 4일 18:00를 확인했습니다. 공식 공고 기준 예산액은 총 7,600만 원으로 점포경영개선 5,500만 원, 이자차액보전 등 2,100만 원입니다. 점포경영개선은 11개소 내외에 소요 사업비의 50% 범위, 최고 500만 원까지 지원하며 자부담 50%가 필요합니다. 대출이자 차액보전은 심의 후 확정된 신규 협약대출에 대해 이자율 3%, 연 200만 원 이내, 3년 이내 구조이고, 신용보증 수수료는 이자차액보전 신청 확정자를 대상으로 최대 100만 원, 3년 범위에서 안내되어 있습니다. 실제 선정과 지급은 장성군 심의, 현지조사, 금융기관 대출·보증 가능 여부, 예산 잔여 여부에 따라 달라질 수 있으므로 신청 전 장성군청 인구경제실과 보증 가능 여부를 함께 확인하는 것이 좋습니다.",
+    "theme": [
+      "경영",
+      "소상공인",
+      "시설개선",
+      "이차보전",
+      "신용보증수수료",
+      "정책자금"
+    ],
+    "region": [
+      "전남광주",
+      "장성군"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "장성군 소재 사업자"
+    ],
+    "application_method": "방문 접수입니다. 공식 공고문 기준 2026년 8월 31일부터 9월 4일 18:00까지 사업주 본인이 장성군청 4층 인구경제실 지역경제팀에 방문 신청하며, 불가피하게 대리인이 신청하는 경우 위임장과 신분증 사본 등 별도 서류가 필요합니다.",
+    "inquiry": "장성군청 인구경제실 061-390-7352",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771366&fileSn=0",
+      "https://www.jangseong.go.kr/home/www/news/jangseong/announcement/show/29332?page=2"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000125990-20260831-jangseong-20260826-small-business-support-76m-store-improvement-interest-guarantee-fee",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "jangseong-2026-h2-small-business-support-store-improvement-interest-guarantee-fee",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-08-31 16:31 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 공고문에서 제목·기업마당 등록일 2026년 8월 31일·장성군 공고 제2026-895호·공고일 2026년 8월 26일·신청기간 2026년 8월 31일~9월 4일 18:00·장성군 소재 소상공인 대상·방문 접수·총 예산 7,600만 원·점포경영개선 최대 500만 원 및 자부담 50%·대출이자 차액보전 이자율 3%, 연 200만 원 이내, 3년 이내·신용보증 수수료 최대 100만 원·문의처 확인"
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125650",
     "source_name": "기업마당",
     "source_grade": "S",
