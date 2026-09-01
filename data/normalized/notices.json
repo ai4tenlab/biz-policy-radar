@@ -1,5 +1,61 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126034",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126034",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-09-02T07:35:14+09:00",
+    "source_published_at": "2026-09-01",
+    "source_updated_at": "2026-08-27",
+    "date": "2026-09-01",
+    "title": "2026년 남해군 면 지역 마을가게 창업 지원사업 참여자 모집 공고",
+    "issuer": "남해군",
+    "executor": "남해군 경제과",
+    "application_start_at": "2026-09-01T00:00:00+09:00",
+    "deadline": "2026-09-23",
+    "deadline_status": "open",
+    "support_target": "남해군 9개 면 지역에서 생활밀착형, 식음료, 문화·교육 등 소상공인 업종 창업을 희망하는 예비창업자 또는 2026년 1월 1일 이후 사업자등록을 완료한 기창업자가 검토 대상입니다. 공고문 기준 2026년 1월 1일 현재 남해군 주민등록자 또는 사업 선정 후 1개월 이내 전입 예정자여야 하며, 선정 후 2개월 이내 면 지역 사업자등록을 완료할 수 있어야 합니다. 국세·지방세 체납, 같은 내용의 국가·지자체 중복지원, 대기업 운영 프랜차이즈 직영점, 유흥·사행성 등 부적합 업종은 제외될 수 있습니다.",
+    "support_summary": "남해군 면 지역에서 마을가게 창업을 준비하거나 2026년 1월 1일 이후 창업한 사업자가 인테리어, 간판, 입식테이블, 화장실·안전시스템, 디지털기기 도입비 일부를 검토할 수 있는 창업 보조금 성격의 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 1일, 신청기간 2026년 9월 1일~9월 23일, 방문 접수처와 문의처를 확인했고, 남해군 고시공고 원문에서 남해군 공고 제2026-1248호, 게재일자 2026년 8월 27일, 공고기간 2026년 8월 27일~9월 23일, 담당부서 경제과와 연락처를 재확인했습니다. 첨부 공고문 기준 지원대상은 10개소이며, 지원금액은 공급가액의 70% 이내에서 최대 300만 원입니다. 부가가치세와 초과 금액은 신청자 부담이고, 사업자등록 완료 시 지급되는 구조로 안내되어 있습니다. 실제 선정과 지급은 남해군 서류심사·선정평가, 창업 가능 업종 여부, 중복지원 여부, 예산 잔여 여부에 따라 달라질 수 있으므로 신청 전 남해군 경제과 지역경제팀에 제출서류와 지원항목 인정 여부를 확인하는 것이 좋습니다.",
+    "theme": [
+      "창업",
+      "소상공인",
+      "시설개선",
+      "디지털기기",
+      "보조금",
+      "정책자금"
+    ],
+    "region": [
+      "경남",
+      "남해군"
+    ],
+    "segment": [
+      "예비창업자",
+      "기창업자",
+      "소상공인",
+      "개인사업자",
+      "남해군 면 지역 창업자"
+    ],
+    "application_method": "방문 접수입니다. 공식 공고문 기준 2026년 9월 1일부터 9월 23일 18:00까지 남해군 경제과 지역경제팀(남해군 남해읍 망운로9번길 12)에 방문 제출합니다. 참여신청서, 견적서, 개인정보 수집·이용·제공동의서, 주민등록초본, 국세·지방세 납세증명서, 사업자등록 사실증명 등 공고문상 제출서류를 확인해야 합니다.",
+    "inquiry": "남해군 경제과 지역경제팀 055-860-3194, 055-860-3609",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771537&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771538&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771538&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771538&fileSn=2",
+      "https://www.namhae.go.kr/modules/saeol/gosi.do?amode=_view&not_ancmt_mgt_no=36746&pageCd=SM010110000&siteGubun=socialm&scd=01&cpage=2"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126034-20260901-namhae-village-store-startup-10-sites-max-3m-70pct-20260923",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "namhae-2026-village-store-startup-support",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-02 07:35 KST",
+    "change_summary": "기업마당 상세 페이지, 남해군 고시공고 원문, 첨부 공고문을 대조해 제목·게재일자·신청기간·지원대상 10개소·보조율 70% 이내·최대 300만 원·방문 접수·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000120422",
     "source_name": "기업마당",
     "source_grade": "S",
