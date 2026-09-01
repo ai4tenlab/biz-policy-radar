@@ -1,5 +1,57 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000120422",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120422",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-09-01T16:32:00+09:00",
+    "source_published_at": "2026-03-23",
+    "source_updated_at": "2026-04-06",
+    "date": "2026-04-06",
+    "title": "[경남] 2026년 중소기업육성자금 특별자금(이란사태 피해 관련) 지원계획 수정 공고",
+    "issuer": "경상남도",
+    "executor": "경남투자경제진흥원",
+    "application_start_at": "2026-03-23T09:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "「중소기업기본법」 제2조에 따른 중소기업으로 주사무소와 사업장이 모두 경남에 소재하고, 2026년 1월 1일 이후 한국무역협회 기준 중동 22개국에 대한 직접수출실적을 보유한 기업이 검토 대상입니다. 은행 여신규정상 담보·보증서 등 대출조건 충족, 제출서류 완비, 기존 경영안정자금·특별자금 이용 한도, 자금 소진 여부에 따라 실제 승인과 대출 실행은 달라질 수 있습니다.",
+    "support_summary": "경남 소재 중소기업 중 2026년 1월 1일 이후 대중동 직접수출실적이 있는 기업이 경영안정자금 대출 이자 부담 완화를 검토할 수 있는 이차보전형 특별자금 공고입니다. 기업마당 상세 페이지에서 금융 분야, 등록일 2026년 4월 6일, 신청기간 예산 소진시까지, 온라인 접수처와 문의처를 확인했고, 경상남도 고시공고 원문에서 제목, 등록일 2026년 3월 23일, 지원규모 100억 원, 지원내용 대출금리 이차보전 2.0%p, 접수기간 2026년 3월 23일부터 자금 소진 시까지를 재확인했습니다. 첨부 공고문 기준 업체당 지원한도는 5억 원 이내이며, 최근년도 결산재무제표상 매출액의 2분의 1 범위가 적용됩니다. 2억 원 이하 신청기업은 매출액 한도 적용에서 제외되고, 2024년 이후 창업기업은 창업기업확인서 제출 시 2억 원 이하 신청이 가능하다고 안내되어 있습니다. 직접대출이 아니라 협약은행 대출에 대한 이차보전 구조이므로 신청 전 경상남도 중소기업육성자금 누리집, 경남투자경제진흥원, 거래은행에서 자금 잔여와 대출 가능성을 함께 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "이차보전",
+      "경영안정자금",
+      "수출피해",
+      "정책자금"
+    ],
+    "region": [
+      "경남"
+    ],
+    "segment": [
+      "중소기업",
+      "수출기업",
+      "경남 소재 기업",
+      "중동 수출기업"
+    ],
+    "application_method": "온라인 접수입니다. 기업마당 상세 페이지와 경상남도 원문 기준 경상남도 중소기업육성자금 누리집(www.gibamoney.or.kr)에서 2026년 3월 23일 09:00부터 자금 소진 시까지 업무시간 내 신청하며, 신청 시 수출실적증명서와 수출신고필증 등 공고문상 증빙서류 제출이 필요합니다.",
+    "inquiry": "경남투자경제진흥원 기업지원단 055-230-2901 / 경상남도 경제기업과 055-211-3325, 055-211-3326",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000750035&fileSn=1",
+      "https://www.gyeongnam.go.kr/index.gyeong?menuCd=DOM_000000135003009001&conTitle=%EC%9E%90%EA%B8%88&conGosiGbn=&conIfmStdt=2025-12-31&conIfmEnddt=2026-04-02&pageLine=10&page=1&mode=view&sno=53773&gosiGbn=A&searchCnt=2",
+      "https://www.gibamoney.or.kr/main.web"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000120422-20260406-gyeongnam-sme-special-fund-middle-east-export-100b-2pp-500m",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gyeongnam-2026-sme-special-fund-middle-east-export-interest-support",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-01 16:32 KST",
+    "change_summary": "기업마당 상세 페이지, 경상남도 고시공고 원문, 첨부 공고문 텍스트를 대조해 대상·기간·온라인 신청·지원규모 100억 원·이차보전율 2.0%p·업체당 5억 원 이내 한도·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000125962",
     "source_name": "기업마당",
     "source_grade": "S",
