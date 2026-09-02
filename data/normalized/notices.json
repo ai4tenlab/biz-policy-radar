@@ -1,5 +1,59 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126040",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126040",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page",
+    "fetched_at": "2026-09-02T12:32:11+09:00",
+    "source_published_at": "2026-09-01",
+    "source_updated_at": "2026-08-25",
+    "date": "2026-09-01",
+    "title": "[경남] 합천군 2026년 하반기 농업발전기금 융자시행계획 공고",
+    "issuer": "합천군",
+    "executor": "합천군 농업기술센터 농업정책과",
+    "application_start_at": "2026-08-26T00:00:00+09:00",
+    "deadline": "2026-09-15",
+    "deadline_status": "open",
+    "support_target": "합천군에 거주하는 농축산업인, 농업 관련 법인·생산자조직, 그리고 합천군 생산 농산물을 50% 이상 원료로 사용하는 1차 가공업자가 검토 대상입니다. 상업·공무원·봉급생활자 등 농업을 주업으로 하지 않는 경우, 전년도 융자금 미실행자, 담보·신용보증 등 금융기관 대출 요건을 충족하기 어려운 경우는 선정 또는 실행이 제한될 수 있습니다.",
+    "support_summary": "합천군 농축산업인과 농업 관련 법인이 운영자금·시설자금을 낮은 금리로 검토할 수 있는 융자형 정책자금 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 1일, 신청기간 2026년 8월 26일~9월 15일, 접수처와 문의처를 확인했고, 첨부 PDF 시행계획에서 결재·등록일 2026년 8월 25일, 하반기 융자규모 12억 원, 대출금리 연 1.0%, 사업계획 총액의 70% 이내 지원 조건을 재확인했습니다. 공고문 기준 운영자금 한도는 농업인 3천만 원·법인 2억 원, 시설자금 한도는 농업인 5천만 원·법인 3억 원입니다. 운영자금은 2년 거치 4년 균분상환, 시설자금은 2년 거치 5년 균분상환 구조이며 NH농협은행 합천군지부 여신규정에 따라 실제 대출 실행 여부가 달라질 수 있습니다. 신청 전 주소지 읍·면사무소와 합천군 농업기술센터에 자격, 사업비 인정 범위, 담보·보증 가능성을 함께 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "운전자금",
+      "시설자금",
+      "농업발전기금",
+      "정책자금"
+    ],
+    "region": [
+      "경남",
+      "합천군"
+    ],
+    "segment": [
+      "농축산업인",
+      "농업법인",
+      "생산자조직",
+      "1차 가공업자",
+      "개인사업자"
+    ],
+    "application_method": "신청인의 주소지 읍·면사무소에서 접수합니다. 공고문 기준 2026년 8월 26일부터 9월 15일까지 융자신청서와 사업계획서, 농업경영체 관련 서류, 추천서, 개인신용정보 수집·이용 동의서, 사전신용조사서 등 제출서류를 확인해 접수해야 합니다. 선정 후 실제 융자 실행은 NH농협은행 합천군지부 대출 심사를 거칩니다.",
+    "inquiry": "합천군 농업기술센터 농업정책과 농정기획담당 055-930-3653",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771557&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771557&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771556&fileSn=0"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126040-20260901-hapcheon-agriculture-development-fund-1pct-12b-70pct-20260915",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "hapcheon-2026-h2-agriculture-development-fund-loan",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-02 12:32 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 PDF 시행계획을 대조해 제목·등록일·신청기간·융자규모 12억 원·연 1.0% 금리·사업계획 총액 70% 이내·운영자금/시설자금별 한도·접수처·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126034",
     "source_name": "기업마당",
     "source_grade": "S",
