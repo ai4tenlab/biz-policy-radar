@@ -1,5 +1,61 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126087",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126087",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page_and_attachment_hwp",
+    "fetched_at": "2026-09-03T12:32:06+09:00",
+    "source_published_at": "2026-09-02",
+    "source_updated_at": "2026-09-01",
+    "date": "2026-09-02",
+    "title": "[강원] 남부권 2026년 소상공인 IP창출지원 레시피 특허 출원 지원사업 모집 공고",
+    "issuer": "강원특별자치도",
+    "executor": "강원남부지식재산센터",
+    "application_start_at": "2026-09-01T00:00:00+09:00",
+    "deadline": "2026-09-10 17:00",
+    "deadline_status": "open",
+    "support_target": "「소상공인기본법」 제2조에 따른 소상공인으로 사업자등록증을 보유하고, 2026년 소상공인 IP창출지원 상표출원 지원사업 또는 IP창출 종합패키지를 지원받은 업체가 검토 대상입니다. 보유 레시피가 즉시 출원 가능할 정도로 구체적이어야 하며, 최종 지원 여부는 강원남부지식재산센터 심의위원회에서 결정합니다. 유흥향락·전문업종·금융·보험업·부동산업 등 지원제외 업종, 대표자가 아닌 신청, 사실상 휴·폐업, 금융기관 불량거래, 비영리 개인사업자·법인·조합, 프랜차이즈 가맹점 등은 제한될 수 있습니다.",
+    "support_summary": "강원 남부권 소상공인이 음식 조리 또는 식품 제조 레시피를 특허 권리로 보호하기 위해 출원·등록 지원을 검토할 수 있는 IP 사업화 지원 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 2일, 신청기간 2026년 9월 1일~9월 10일, 온라인 신청처와 문의처를 확인했고, 첨부 HWP 공고문에서 강원남부 공고 제2026-32호, 공고일 2026년 9월 1일, 접수마감 2026년 9월 10일 17시, 지원대상과 지원내용을 재확인했습니다. 공고문 기준 지원 항목은 ‘후속지원_레시피특허’이며 지원규모는 분담금 포함 375만 원 이내, 소상공인 분담금은 20%(현물 10%+현금 10%)입니다. 지식재산처 관납료(출원 및 등록)는 별도 소상공인 부담으로 안내되어 있고, 지원금액은 센터가 책정해 선정 협력기관에 지원됩니다. 이미 소상공인 IP창출지원 상표출원 지원사업과 IP창출 종합패키지를 모두 지원받았거나 둘 중 어느 것도 지원받지 않은 경우는 제외될 수 있으므로 신청 전 기존 지원 이력과 레시피 구체성을 확인해야 합니다.",
+    "theme": [
+      "사업화",
+      "지식재산",
+      "특허",
+      "바우처",
+      "소상공인",
+      "레시피",
+      "식품",
+      "권리화"
+    ],
+    "region": [
+      "강원"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "음식업",
+      "식품제조업",
+      "외식업",
+      "지역 소상공인"
+    ],
+    "application_method": "RIPC 지원사업 신청시스템(https://www.ripc.org/pms)에서 강원남부센터 공고를 선택해 온라인으로 신청합니다. 공고문 기준 기업 세금계산서용·범용 공인인증서 또는 RIPC 전용 인증서로 지원기업 회원가입이 필요하며, 제출서류는 레시피특허 출원 활용계획서입니다.",
+    "inquiry": "강원남부지식재산센터 033-552-4748, kskim95@naver.com",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771753&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771754&fileSn=0",
+      "https://pms.ripc.org/pms/biz/applicant/notice/info.do?noticeSeq=4913&bizYear=2026"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126087-20260902-gangwon-south-small-business-ip-recipe-patent-3_75m-costshare20-deadline20260910-17",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gangwon-south-2026-small-business-ip-recipe-patent",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-03 12:32 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 HWP 공고문을 대조해 제목·등록일·공고번호·공고일·대상·접수기간·지원규모 375만 원 이내·분담금 20%·신청시스템·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126068",
     "source_name": "기업마당",
     "source_grade": "S",
