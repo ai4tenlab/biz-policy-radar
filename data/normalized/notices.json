@@ -1,5 +1,57 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126122",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126122",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page_and_executor_original_hwp",
+    "fetched_at": "2026-09-03T16:33:01+09:00",
+    "source_published_at": "2026-09-03",
+    "source_updated_at": "2026-09-03",
+    "date": "2026-09-03",
+    "title": "[경남] 2026년 중소기업 국내 전시회 참가 지원사업 참여기업 추가 모집 공고",
+    "issuer": "경상남도",
+    "executor": "경남투자경제진흥원",
+    "application_start_at": "2026-09-03T00:00:00+09:00",
+    "deadline": "2026-09-16",
+    "deadline_status": "open",
+    "support_target": "「중소기업기본법」 제2조에 따른 중소기업으로 경상남도 내에 본사 또는 공장을 운영 중인 중소 제조기업이 검토 대상입니다. 공고문 기준 사업자등록증에 제조업이 명시되어야 하고 2024년도 표준재무제표 증명원에 제품매출액이 표기되어야 합니다. 소상공인은 제외되며, 최종 지원 여부는 제출서류와 정량평가, 예산 범위에 따라 결정됩니다.",
+    "support_summary": "경남 소재 중소 제조기업이 2026년 9월 3일부터 11월 30일까지 열리는 국내 전시회 참가비를 일부 보전받을 수 있는 판로개척형 보조금 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 3일, 신청기간 2026년 9월 3일~9월 16일, 수행기관과 접수처·문의처를 확인했고, 경남투자경제진흥원 원문 페이지에서 공고번호 제2026-85호, 등록일 2026년 9월 3일 09:00:13, 공고기간 2026년 9월 3일~9월 16일을 재확인했습니다. 첨부 HWP 공고문 기준 지원규모는 1개사 추가 지원이며, 기업당 최대 300만 원까지 부스임차비와 장치비를 지원하되 공급가액(VAT 제외)의 80% 한도입니다. 지원금은 선정업체가 전시회 참가비를 먼저 납부한 뒤 사업완료 결과보고서 등 확인 후 지급되는 구조이므로, 신청 전 전시회 개최기간, 제조업 증빙, 2024년 표준재무제표 제품매출액 표기 여부를 확인해야 합니다.",
+    "theme": [
+      "판로",
+      "전시회",
+      "마케팅",
+      "보조금",
+      "내수",
+      "제조업"
+    ],
+    "region": [
+      "경남"
+    ],
+    "segment": [
+      "중소기업",
+      "제조기업",
+      "지역 기업",
+      "전시회 참가기업"
+    ],
+    "application_method": "우편 또는 방문 접수입니다. 접수처는 경남 창원시 성산구 창원대로 524(대원동) 경남사회적경제혁신타운 4층, (재)경남투자경제진흥원 기업지원단입니다. 방문 접수는 평일 09:00~18:00 가능하며 토·일·공휴일과 점심시간 12:00~13:00은 제외됩니다.",
+    "inquiry": "경남투자경제진흥원 기업지원단 055-230-2907",
+    "attachment_urls": [
+      "https://giba.or.kr/common/file/NR_download.do?id=a936977b-254b-43fc-bf7d-675136b727a2",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771799&fileSn=1",
+      "https://giba.or.kr/fe/bizinfo/bizannounce/NR_view.do?bbsCd=11&bizAnnoSeq=895&bizannounceSeq=&currentPage=1&rowPerPage=10&searchType=&searchStatus=&startDt=&endDt=&searchKey=0001&searchVal="
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126122-20260903-gyeongnam-domestic-exhibition-additional-one-company-3m-vat80-deadline20260916",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "gyeongnam-2026-domestic-exhibition-participation-additional",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-03 16:33 KST",
+    "change_summary": "기업마당 상세 페이지, 경남투자경제진흥원 원문 페이지, 첨부 HWP 공고문을 대조해 제목·등록일·공고번호·공고기간·대상·지원규모 1개사·최대 300만 원·공급가액 80% 한도·우편/방문 접수·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126087",
     "source_name": "기업마당",
     "source_grade": "S",
