@@ -1,5 +1,59 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126134",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126134",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page_and_municipal_original_page",
+    "fetched_at": "2026-09-04T07:35:15+09:00",
+    "source_published_at": "2026-09-03",
+    "source_updated_at": "2026-09-02",
+    "date": "2026-09-03",
+    "title": "[강원] 원주시 2026년 하반기 중소기업 신용보증수수료 지원사업 공고",
+    "issuer": "강원특별자치도 원주시",
+    "executor": "원주시청 기업지원일자리과",
+    "application_start_at": "2026-09-14T09:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "원주시 소재 중소기업 중 제조업 또는 제조업 관련 서비스업이 검토 대상입니다. 원주시 원문 공고 기준 2026년 3월부터 2026년 8월까지 기업자금 대출담보용 신용보증서 발급수수료를 납부한 업체가 대상이며, 최종 지원 여부는 제출서류와 예산 잔액, 원주시 확인 절차에 따라 달라질 수 있습니다.",
+    "support_summary": "원주시 소재 제조업 또는 제조업 관련 서비스업 중소기업이 2026년 3월부터 8월 사이 기업자금 대출담보용 신용보증서 발급수수료를 납부했다면 검토할 만한 금융비용 보전형 보조금 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 3일, 신청기간 ‘예산 소진시까지’, 지원대상, 방문 접수처, 문의처를 확인했고, 원주시청 원문 공고에서 공고고시번호 원주시 공고 제2026-2429, 공고기간 2026년 9월 2일~12월 31일, 접수 시작 2026년 9월 14일 09:00, 총 지원규모 4,000만 원, 기업당 최대 300만 원 한도를 재확인했습니다. 9월 14일에는 원주시청 10층 대회의실, 9월 15일부터는 9층 기업지원일자리과 방문 접수로 안내되어 있으므로, 신용보증서 발급수수료 납부 증빙과 업종 적합성을 먼저 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "신용보증",
+      "보증수수료",
+      "보조금",
+      "운전자금",
+      "시설자금",
+      "중소기업"
+    ],
+    "region": [
+      "강원",
+      "원주"
+    ],
+    "segment": [
+      "중소기업",
+      "제조기업",
+      "지역 기업",
+      "보증 이용 기업"
+    ],
+    "application_method": "방문 접수입니다. 원주시청 원문 공고 기준 접수는 2026년 9월 14일 09:00부터 예산 소진 시까지이며, 9월 14일 접수처는 원주시청 10층 대회의실(원주시 시청로 1), 9월 15일부터는 원주시청 9층 기업지원일자리과입니다.",
+    "inquiry": "원주시청 기업지원일자리과 033-737-2972",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771963&fileSn=0",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771964&fileSn=1",
+      "https://www.wonju.go.kr/www/selectBbsNttView.do?key=216&bbsNo=140&nttNo=491049"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126134-20260904-wonju-h2-sme-credit-guarantee-fee-40m-max3m-open-budget",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "wonju-2026-h2-sme-credit-guarantee-fee-subsidy",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-04 07:35 KST",
+    "change_summary": "기업마당 상세 페이지와 원주시청 원문 공고를 대조해 제목·등록일·공고번호·공고기간·접수 시작일·대상·지원규모 4,000만 원·기업당 최대 300만 원·방문 접수처·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126122",
     "source_name": "기업마당",
     "source_grade": "S",
