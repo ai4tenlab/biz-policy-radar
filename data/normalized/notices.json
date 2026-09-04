@@ -1,5 +1,57 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126132",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126132",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page_and_attached_hwpx",
+    "fetched_at": "2026-09-04T12:31:41+09:00",
+    "source_published_at": "2026-09-03",
+    "source_updated_at": "2026-08-28",
+    "date": "2026-09-03",
+    "title": "[충북] 음성군 2026년 중소기업 육성자금 이차보전 지원사업 변경 공고",
+    "issuer": "충청북도 음성군",
+    "executor": "음성군청 기업지원과",
+    "application_start_at": "2026-02-02T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "「중소기업기본법」 제2조에 해당하는 중소기업 중 음성군 관내에 본사와 공장을 두고 제조업을 영위하는 기업이 검토 대상입니다. 첨부 공고문 기준 공고일 현재 공장등록 후 1년 이상 가동 중이어야 하며, 소기업·소상공인은 지원 불가로 명시되어 있습니다. 은행 여신규정상 담보·보증 등 대출조건을 충족해야 하므로 최종 지원 여부는 음성군 심사와 협약은행 대출심사, 예산 잔액에 따라 달라질 수 있습니다.",
+    "support_summary": "음성군 소재 제조 중소기업이 운전자금 대출에 대한 이자 일부 보전을 검토할 수 있는 이차보전형 정책자금 변경 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 3일, 신청기간 ‘예산 소진시까지’, 방문·우편 접수처와 문의처를 확인했고, 첨부 HWPX 공고문에서 음성군 공고 제2026-1596호, 변경 공고일 2026년 8월 28일, 사업예산 3억 8,000만 원, 매월 1일~15일 접수, 지원방식 ‘융자금에 대한 이차보전’을 재확인했습니다. 공고문 기준 일반기업 대출한도는 5억 원 이내, 보전금리는 연 2.0% 이내, 융자기간은 3년 전액 일시상환이며, 중동지역 수출·입 피해기업·미국 관세부과 영향기업·음성군 유망중소기업·전체 근로자의 60% 이상 전입 기업은 연 2.5% 이내 보전으로 안내되어 있습니다. 이번 변경은 IBK기업은행을 통한 대출에 한해 은행 내규에 따른 최대 연 1.0%p 금리우대가 추가될 수 있다는 내용이므로, 신청 전 IBK기업은행 음성지점 또는 협약은행 대출 가능 여부를 먼저 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "이차보전",
+      "융자",
+      "운전자금",
+      "경영안정자금",
+      "제조업",
+      "중소기업"
+    ],
+    "region": [
+      "충북",
+      "음성"
+    ],
+    "segment": [
+      "중소기업",
+      "제조기업",
+      "지역 기업",
+      "운전자금 수요 기업"
+    ],
+    "application_method": "방문 또는 우편 접수입니다. 첨부 공고문 기준 매월 1일부터 15일까지 신청을 받으며 예산 소진 시 마감됩니다. 접수처는 충북 음성군 음성읍 중앙로 173, 음성군청 기업지원과 기업지원팀입니다. 대출 사전 심의서에 은행 직인이 필요하므로 협약은행 대출상담을 먼저 진행해야 합니다.",
+    "inquiry": "음성군청 기업지원과 기업지원팀 043-871-3622 / IBK기업은행 음성지점 043-881-8100(IBK 금리우대 관련)",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000771961&fileSn=0"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126132-20260904-eumseong-sme-development-fund-interest-subsidy-budget380m-limit500m-rate2-25-ibk1p",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "eumseong-2026-sme-development-fund-interest-subsidy-amended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-04 12:31 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 HWPX 공고문을 대조해 제목·등록일·공고번호·변경 공고일·신청주기·대상·소기업/소상공인 제외·사업예산 3억 8,000만 원·대출한도 5억 원·보전금리 연 2.0~2.5% 이내·IBK 최대 1.0%p 금리우대·접수처·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126134",
     "source_name": "기업마당",
     "source_grade": "S",
