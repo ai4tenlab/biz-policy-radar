@@ -1,5 +1,57 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126186",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126186",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page_and_attached_hwpx",
+    "fetched_at": "2026-09-04T16:33:15+09:00",
+    "source_published_at": "2026-09-04",
+    "source_updated_at": "2026-08-31",
+    "date": "2026-09-04",
+    "title": "[대구] 수성구 2026년 소상공인시장진흥공단 정책자금 이차보전 지원 사업 공고",
+    "issuer": "대구광역시 수성구",
+    "executor": "소상공인시장진흥공단 대구남부센터",
+    "application_start_at": "2026-04-13T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "수성구 관내 소상공인시장진흥공단 정책자금 대리대출 이용자 중 대구신용보증재단 신용보증서 대출을 이용하는 소상공인이 검토 대상입니다. 첨부 공고문 기준 정책자금 제외 업종, 수성구 소상공인 특례보증 이차보전을 이미 지원받은 업체 등은 제외될 수 있으며, 최종 지원 여부는 정책자금 확인서 발급, 보증서 발급, 은행 대출실행, 예산 잔액에 따라 달라질 수 있습니다.",
+    "support_summary": "수성구 소재 소상공인이 소상공인시장진흥공단 정책자금 대리대출과 대구신용보증재단 보증서 대출을 함께 이용할 때 대출이자 일부 보전을 검토할 수 있는 이차보전형 정책자금 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 4일, 신청기간 ‘예산 소진시까지’, 지원대상, 방문 접수처와 문의처를 확인했고, 첨부 HWPX 공고문에서 대구광역시 수성구 제2026-1324호, 공고일 2026년 8월 31일, 사업기간 2026년 4월 13일~자금 소진 시까지를 재확인했습니다. 공고문 기준 대출한도는 업체당 7천만 원 이내, 이자지원은 대출이자 중 2%를 1년간 지원하는 구조이며, 대상 자금은 정책자금 대리대출 중 성장기반자금·특별경영안정자금으로 안내되어 있습니다. 지원절차는 소상공인시장진흥공단 대구남부센터 정책자금확인서 발급, 대구신용보증재단 보증서 발급, IM뱅크 수성구청지점 대출실행 순서이므로 신청 전 대출 가능 여부와 제외 업종 해당 여부를 먼저 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "이차보전",
+      "융자",
+      "정책자금",
+      "소상공인",
+      "경영안정자금",
+      "성장기반자금"
+    ],
+    "region": [
+      "대구",
+      "수성구"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "지역 사업자",
+      "정책자금 대리대출 이용자"
+    ],
+    "application_method": "방문 접수입니다. 접수처는 소상공인시장진흥공단 대구남부센터이며, 첨부 공고문 기준 대구신용보증재단 보증서 발급과 IM뱅크 수성구청지점 대출실행 절차가 포함됩니다. 구비서류는 소상공인시장진흥공단 대구남부센터에 문의해 확인해야 합니다.",
+    "inquiry": "소상공인시장진흥공단 대구남부센터 053-629-4200",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000772146&fileSn=0"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126186-20260904-suseong-semas-policy-fund-interest-subsidy-limit70m-rate2pct-1year",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "suseong-2026-semas-policy-fund-interest-subsidy",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-04 16:33 KST",
+    "change_summary": "기업마당 상세 페이지와 첨부 HWPX 공고문을 대조해 제목·등록일·공고번호·공고일·사업기간·지원대상·대출한도 7천만 원·이자지원 2% 1년·대상 자금·대출은행·접수처·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126132",
     "source_name": "기업마당",
     "source_grade": "S",
