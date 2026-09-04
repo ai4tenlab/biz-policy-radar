@@ -1,5 +1,56 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126184",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126184",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page_municipal_original_and_attached_hwpx",
+    "fetched_at": "2026-09-05T07:35:00+09:00",
+    "source_published_at": "2026-09-04",
+    "source_updated_at": "2026-09-02",
+    "date": "2026-09-04",
+    "title": "[대구] 동구 2026년 하반기 소상공인 경영안정자금 지원사업 공고",
+    "issuer": "대구광역시 동구",
+    "executor": "대구신용보증재단",
+    "application_start_at": "2026-09-10T00:00:00+09:00",
+    "deadline": "예산 소진시까지",
+    "deadline_status": "open",
+    "support_target": "대구광역시 동구에서 3개월 이상 영업 중인 소상공인이 검토 대상입니다. 첨부 공고문 기준 개인신용평점은 NICE 710점 이상 또는 KCB 620점 이상 중 유리한 점수를 적용할 예정이며, 휴·폐업 업체, 최근 신용관리정보 등록·연체 이력 보유 업체, 소상공인정책자금 대리대출 운용지침상 지원 제외 업종, 대구신용보증재단 재보증 제한업종, 당해 연도 중앙부처·지자체 정책자금 기 수혜 기업 등은 제외될 수 있습니다. 최종 지원 여부는 대구신용보증재단 보증심사, 아이엠뱅크 대출심사, 예산 잔액에 따라 달라질 수 있습니다.",
+    "support_summary": "대구 동구 소재 소상공인이 경영안정자금 대출과 이자 일부 보전을 함께 검토할 수 있는 융자·이차보전형 정책자금 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 4일, 신청기간 ‘예산 소진시까지’, 지원대상, 방문 접수처와 문의처를 확인했고, 대구 동구청 원문 공고에서 대구광역시 동구 공고 제2026-1646호, 등록일 2026년 9월 2일, 사업기간 2026년 9월 10일~자금 소진 시까지를 재확인했습니다. 첨부 HWPX 공고문 기준 대출규모는 12억 원, 대출한도는 기업당 3천만 원 이내, 이차보전은 2년간 대출이자 2% 지원이며, 대출보증은 대구신용보증재단, 대출은행은 아이엠뱅크 동구청점으로 안내되어 있습니다. 신청 전 대구신용보증재단 동지점에 구비서류와 보증 가능 여부를 확인하고, 당해 연도 다른 정책자금 수혜 여부와 제외 업종 해당 여부를 함께 점검하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "융자",
+      "이차보전",
+      "경영안정자금",
+      "소상공인",
+      "지역자금"
+    ],
+    "region": [
+      "대구",
+      "동구"
+    ],
+    "segment": [
+      "소상공인",
+      "개인사업자",
+      "지역 사업자"
+    ],
+    "application_method": "방문 접수입니다. 접수처는 대구신용보증재단 동지점이며, 구비서류는 대구신용보증재단에 문의해 확인해야 합니다. 공고문 기준 대출처는 아이엠뱅크 동구청점입니다.",
+    "inquiry": "대구신용보증재단 동지점 053-982-7500, 아이엠뱅크 동구청점 053-945-3455, 동구청 민생경제과 053-662-4713",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000772144&fileSn=1",
+      "https://www.dong.daegu.kr/portal/saeol/gosi/view.do?notAncmtMgtNo=60818&mid=0201020000"
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126184-20260905-daegu-dong-h2-small-business-stability-fund-scale1200m-limit30m-rate2pct-2years",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "daegu-dong-2026-h2-small-business-management-stability-fund",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-05 07:35 KST",
+    "change_summary": "기업마당 상세 페이지, 대구 동구청 원문 공고, 첨부 HWPX 공고문을 대조해 제목·등록일·공고번호·사업기간·지원대상·대출규모 12억 원·기업당 대출한도 3천만 원·이차보전 2% 2년·접수처·대출처·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126186",
     "source_name": "기업마당",
     "source_grade": "S",
