@@ -1,5 +1,67 @@
 [
   {
+    "source_id": "bizinfo-PBLN_000000000126190",
+    "source_name": "기업마당",
+    "source_grade": "S",
+    "source_url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126190",
+    "official_domain": "bizinfo.go.kr",
+    "collection_method": "official_page_kiat_original_and_attached_hwp",
+    "fetched_at": "2026-09-05T12:32:10+09:00",
+    "source_published_at": "2026-09-04",
+    "source_updated_at": "2026-09-04",
+    "date": "2026-09-04",
+    "title": "2026년 2차 지역산업위기대응 이차보전 지원사업 변경 공고",
+    "issuer": "산업통상부",
+    "executor": "한국산업기술진흥원",
+    "application_start_at": "2026-02-10T00:00:00+09:00",
+    "deadline": "2026-11-13 18:00까지(예산 소진 시 조기마감 가능)",
+    "deadline_status": "open",
+    "support_target": "전남 여수시, 경북 포항시, 충남 서산시, 전남 광양시, 울산 남구, 충남 당진시 등 산업위기선제대응지역에서 주된산업 또는 밀접한 전·후방 연관 산업을 영위하는 중소·중견기업이 검토 대상입니다. 전·후방 연관 산업 기업은 거래관계와 업종을 증빙해야 하며, 심사위원회가 주된 산업 해당 여부 또는 연관성을 판단합니다. 추천서는 대출 실행을 보장하지 않고, 금융기관 여신심사·담보·신용도에 따라 대출 가능 금액이나 실행 여부가 달라질 수 있습니다.",
+    "support_summary": "산업위기지역 소재 중소·중견기업이 운전자금 또는 시설자금 대출을 이용할 때 대출금리 일부를 정부가 보전하는 이차보전형 정책자금 공고입니다. 기업마당 상세 페이지에서 등록일 2026년 9월 4일, 신청기간 2026년 2월 10일~11월 13일, 소관부처 산업통상부, 수행기관 한국산업기술진흥원, 이메일 접수처와 문의처를 확인했고, 한국산업기술진흥원 원문에서 공고일 2026년 9월 4일, 접수기간 2026년 9월 4일~11월 13일, 진행중 상태를 재확인했습니다. 첨부 공고문 기준 지원대상은 산업위기지역 주된산업 또는 밀접한 전·후방 연관 산업 영위 중소·중견기업이며, 대출한도는 기업당 최대 15억 원입니다. 이차보전율은 운전자금 3.0%p, 시설자금은 중소기업 2.0%p·중견기업 1.5%p로 구분됩니다. 메일 신청 후 접수 완료 확인 메일을 받아야 최종 접수로 인정되며, 추천서가 대출 실행을 보장하지 않는다는 점을 먼저 확인하는 것이 좋습니다.",
+    "theme": [
+      "금융",
+      "이차보전",
+      "융자",
+      "운전자금",
+      "시설자금",
+      "경영안정자금",
+      "산업위기지역"
+    ],
+    "region": [
+      "전남",
+      "여수",
+      "광양",
+      "경북",
+      "포항",
+      "충남",
+      "서산",
+      "당진",
+      "울산",
+      "남구"
+    ],
+    "segment": [
+      "중소기업",
+      "중견기업",
+      "지역 산업위기 대응 기업"
+    ],
+    "application_method": "산업위기지역별 접수기관 이메일 접수입니다. 기업마당 및 공고문 기준 전남 여수시는 jnriia@riia.or.kr, 경북 포항시는 2cha@ptp.or.kr, 충남 서산시는 seosancci@naver.com, 전남 광양시는 jnriiagy@riia.or.kr, 울산 남구는 ulsan@riia.or.kr, 충남 당진시는 dangjincci2@naver.com으로 접수하며, 접수처의 ‘접수 완료 확인 메일’을 받아야 최종 접수로 인정됩니다.",
+    "inquiry": "한국산업기술진흥원 지역거점지원실 02-6009-4244 및 산업위기지역별 접수기관 문의처(공고문 10쪽 참조)",
+    "attachment_urls": [
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000772169&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000772170&fileSn=1",
+      "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000772170&fileSn=2",
+      "https://www.kiat.or.kr/front/board/boardContentsView.do?miv_pageNo=&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contents_id=e90116164e76448c9aee4e9cdc3d8838&board_id=90&cate_id=&field_id=&intropage_boardUseYn=&MenuId=b159c9dac684471b87256f1e25404f5e&state_filter=W&contents_year=&start_date=&end_date=&searchkey=T&searchtxt="
+    ],
+    "raw_hash": "bizinfo-PBLN_000000000126190-20260905-regional-industrial-crisis-interest-subsidy-limit1500m-working3p-facility2p1_5p-deadline20261113",
+    "license_note": "official_summary_with_source_link",
+    "policy_check_status": "allow",
+    "slug": "2026-regional-industrial-crisis-interest-subsidy-2nd-amended",
+    "status": "PASS",
+    "content_status": "published",
+    "verified_at": "2026-09-05 12:32 KST",
+    "change_summary": "기업마당 상세 페이지, 한국산업기술진흥원 원문, 첨부 HWP 공고문을 대조해 제목·공고일·접수기간·진행중 상태·지원대상·대출한도 기업당 최대 15억 원·이차보전율 운전자금 3.0%p 및 시설자금 중소 2.0%p/중견 1.5%p·지역별 이메일 접수처·문의처를 신규 검증했습니다."
+  },
+  {
     "source_id": "bizinfo-PBLN_000000000126184",
     "source_name": "기업마당",
     "source_grade": "S",
